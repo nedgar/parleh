@@ -44,12 +44,12 @@ def download_people(parliament):
     print(f"Downloading people for parliament #{parliament}...")
     people = query_people(parliament)
 
-    filename = 'parliament-%d-people.json' % parliament
+    filename = '../data/parliaments/parliament-%d-people.json' % parliament
     to_save = {'parliament': parliament, 'people': people}
     with open(filename, 'w') as f:
         json.dump(to_save, f, indent=2)
 
-    filename = 'parliament-%d-people.csv' % parliament
+    filename = '../data/parliaments/parliament-%d-people.csv' % parliament
     df = people_df(people, parliament)
     df.to_csv(filename, encoding='utf8')
 
