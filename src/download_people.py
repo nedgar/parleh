@@ -53,5 +53,19 @@ def download_people(parliament):
     df = people_df(people, parliament)
     df.to_csv(filename, encoding='utf8')
 
-for parliament in range(1, current_parliament + 1):
-    download_people(parliament)
+def read_all_parliaments():
+    dfs = []
+    for parliament in range(1, current_parliament + 1):
+        df = pd.read_csv('../data/parliaments/parliament-%d-people.csv' % parliament, encoding='utf8')
+        df.insert(0, 'parliament', parliament)
+        dfs.append(df)
+    return pd.concat(dfs)
+
+def combine_parliaments():
+    print("Combining CSV data for all {current_parliament} parliaments...")
+    df = read_all_parliaments()
+    df.to_csv('../data/parliaments/all_parliaments.csv', index=False, encoding='utf8')
+
+# for parliament in range(1, current_parliament + 1):
+#     download_people(parliament)
+combine_parliaments()
