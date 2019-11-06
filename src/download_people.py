@@ -65,8 +65,8 @@ class Parleh:
         df = self.people_df(people, parliament)
         df.to_csv(filename, encoding='utf8')
 
-    def download_all_parliaments(self):
-        for parliament in range(1, self.CURRENT_PARLIAMENT + 1):
+    def download_all_parliaments(self, start_parl, end_parl):
+        for parliament in range(start_parl, end_parl + 1):
             parleh.download_parliament(parliament)
     
     def read_all_parliament_csvs(self):
@@ -111,6 +111,6 @@ class Parleh:
 
 
 parleh = Parleh()
-parleh.download_all_parliaments()
+parleh.download_all_parliaments(parleh.CURRENT_PARLIAMENT, parleh.CURRENT_PARLIAMENT)
 parleh.combine_parliament_csvs()
 parleh.download_all_profiles()
