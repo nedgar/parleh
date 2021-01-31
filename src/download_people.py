@@ -13,7 +13,7 @@ class Parleh:
     PERSON_SEARCH_URL = PERSON_URL + 'SearchAndRefine'
     PERSON_PROFILE_URL = PERSON_URL + 'GetPersonWebProfile/%d'
 
-    CURRENT_PARLIAMENT = 43
+    CURRENT_PARLIAMENT = 44
 
     REGULAR_COLS = ['PersonId', 'LastName', 'UsedFirstName', 'StraightDisplayName', 'Gender', 'LanguageEn',
         'PartyEn', 'ConstituencyEn', 'ProvinceEn', 'TypeOfParliamentarianEn', 
@@ -27,7 +27,7 @@ class Parleh:
     PEOPLE_DIR = DATA_DIR + 'people/'
 
     def query_people(self, parliament):
-        params = { 'refiners': '4-%s,' % (self.CURRENT_PARLIAMENT - parliament + 1) }
+        params = { 'refiners': '4-%d,' % (self.CURRENT_PARLIAMENT - parliament + 1) }
         r = requests.get(self.PERSON_SEARCH_URL, params= params)
         r.raise_for_status()
         return r.json()
@@ -111,6 +111,6 @@ class Parleh:
 
 
 parleh = Parleh()
-parleh.download_all_parliaments(parleh.CURRENT_PARLIAMENT, parleh.CURRENT_PARLIAMENT)
+parleh.download_all_parliaments(1, parleh.CURRENT_PARLIAMENT)
 parleh.combine_parliament_csvs()
 parleh.download_all_profiles()
