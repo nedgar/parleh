@@ -40,7 +40,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 105135,8641,Anderson,David,1994-01-01,True,1997-01-01,True,False,False,3164,Frontier,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,708,Trustee,,Municipal
 95578,8641,Anderson,David,1997-01-01,True,2000-01-01,True,False,False,3164,Frontier,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,756,Chair,,Committee|Officers of Party Caucuses and Executives|ElectionProcessCloseDissolution
 45154,118,Anderson,Hugh Alan,,False,,False,False,False,6625,Port Alberni,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
-70283,2345,Anderson,John Hawkins,,False,,False,False,False,3493,Halifax,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1346,Alderman,,Municipal
 30952,5387,Anderson,Raymond Elmer,1930-01-01,True,1934-01-01,True,False,False,5914,Norfolk County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 95950,5387,Anderson,Raymond Elmer,1932-01-01,True,1934-01-01,True,False,False,9309,Townsend Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 57382,10261,Anderson,Robert King,1904-01-01,True,1908-01-01,True,False,False,5331,Milton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
@@ -80,8 +79,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 146818,7118,Auger,Louis Mathias,1936-01-01,True,1937-01-01,True,False,False,6744,Prescott,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 149053,7118,Auger,Louis Mathias,1955-01-01,True,1959-01-01,True,False,False,10789,Saint-Joseph-de-Chambly,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 110723,15342,Auger,Michel,,False,,False,False,False,8754,Ste-Prudentienne,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 5 years,True,223,Mayor,,Municipal
-64426,5290,Ault,Samuel,,False,,False,False,False,6239,Osnabruck Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,178,Deputy Reeve,,Municipal
-44573,5290,Ault,Samuel,,False,,False,False,False,6239,Osnabruck Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 268915,3154,Authier,Hector,1914-01-01,True,1918-01-01,True,False,False,530,Amos,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 147248,3154,Authier,Hector,1914-01-01,True,1918-01-01,True,False,False,10778,Abitibi County,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,900,Prefect,,Municipal
 3330,16356,Avery,Melzar,,False,,False,False,False,3157,Frontenac's County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 14 years,True,1227,Councillor,,Municipal
@@ -197,8 +194,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 268983,10821,Bergin,Darby,,False,,False,False,False,2210,Cornwall,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,697,Town Councillor,,Municipal
 269077,14641,Bernier,Thomas-Alfred,1883-01-01,True,1900-01-01,True,False,False,8172,St-Boniface,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 266807,18578,Berthold,Luc,2006-01-01,True,2013-01-01,True,False,False,11831,Thetford Mines,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-151897,8925,Bertrand,Charles Frédéric Adolphe,1859-01-01,True,1859-01-01,True,False,False,10814,L'Isle-Verte,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-151896,8925,Bertrand,Charles Frédéric Adolphe,1881-01-01,True,1885-01-01,True,False,False,10814,L'Isle-Verte,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 36068,15551,Bertrand,Elie-Oscar,1922-01-01,True,1929-01-01,True,False,False,4317,L'Orignal,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 151936,7023,Bertrand,Lionel,1958-01-01,True,1968-01-01,True,False,False,10815,Sainte-Thérèse,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,574,School Commissioner,,Municipal
 151937,7023,Bertrand,Lionel,1959-01-01,True,1960-01-01,True,False,False,10815,Sainte-Thérèse,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,832,Director,0.0,Officers of Party Caucuses and Executives
@@ -301,7 +296,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 18296,11093,Bouchard,Télésphore-Damien,1917-01-01,True,1930-01-01,True,False,False,8275,St-Hyacinthe,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 155835,11093,Bouchard,Télésphore-Damien,1932-01-01,True,1944-01-01,True,False,False,8275,St-Hyacinthe,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 14631,5356,Boucher,William Albert,,False,,False,False,False,8321,St-Louis,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 16 years,True,553,Reeve,,Municipal
-35319,12558,Boucher de Niverville,Louis-Charles,1863-01-01,True,1865-01-01,True,False,False,9380,Trois-Rivières,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 20505,9984,Boudria,Don,1976-01-01,True,1981-01-01,True,False,False,2316,Cumberland,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 269038,17306,Boughen,Ray,1994-01-01,True,2000-01-01,True,False,False,5496,Moose Jaw,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 132678,17306,Boughen,Ray,2005-01-01,True,2008-01-01,True,False,False,10460,Prairie South School Division Board of Education,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,708,Trustee,,Municipal
@@ -371,9 +365,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 42056,13999,Brouse,William Henry,,False,,False,False,False,6744,Prescott,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 91388,13999,Brouse,William Henry,,False,,False,False,False,6744,Prescott,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 321493,13999,Brouse,William Henry,,False,,False,False,False,6744,Prescott,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
-10057,1926,Brousseau,Jean Docile,1875-10-29,False,1880-05-03,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
-54325,1926,Brousseau,Jean Docile,1880-05-03,False,1882-05-01,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-156824,1926,Brousseau,Jean Docile,1882-05-01,False,1884-05-05,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 40631,4476,Brown,Bonnie,,False,,False,False,False,6091,Oakville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
 269123,3713,Brown,Donald Ferguson,1941-01-01,True,1946-01-01,True,False,False,9978,Windsor (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1345,Alderman,,Municipal
 41206,12515,Brown,Gordon,,False,,False,False,False,3188,Gananoque,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,Twice elected to Gananoque Town Council,True,1227,Councillor,,Municipal
@@ -477,6 +468,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 65596,13406,Carignan,Onésime,1876-01-01,True,1888-01-01,True,False,False,9380,Trois-Rivières,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 269184,3125,Carling,John,1854-01-01,True,1858-01-01,True,False,False,4944,London,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1345,Alderman,,Municipal
 100553,6041,Caron,Alexis Pierre,1953-04-01,True,1955-04-01,True,False,False,3725,Hull,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+322507,17934,Caron,Guy,2021-11-07,False,,False,False,False,7257,Rimouski,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 31579,7370,Carpenter,Franklin Metcalfe,1872-01-01,True,1874-01-01,True,False,False,7627,Saltfleet Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 75117,7370,Carpenter,Franklin Metcalfe,1874-01-01,True,1883-01-01,True,False,False,7627,Saltfleet Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 23089,16567,Carr,Gary,2006-11-14,False,2019-09-11,False,False,False,3509,Halton Regional Council,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,756,Chair,,Committee|Officers of Party Caucuses and Executives|ElectionProcessCloseDissolution
@@ -501,12 +493,13 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 119971,16947,Catherwood,A. Earl,1947-01-01,True,1947-01-01,True,False,False,9698,Walpole Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 93779,999,Catterall,Marlene,1976-07-12,False,1985-12-31,False,False,False,6280,Ottawa-Carleton's Regional Municipality,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,562,Regional Councillor,,Municipal
 82162,999,Catterall,Marlene,1976-07-12,False,1985-12-31,False,False,False,6271,Ottawa,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
-268903,9370,Cauchon,Joseph Édouard,1856-01-01,True,1867-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+268903,9370,Cauchon,Joseph Édouard,1866-01-12,False,1868-01-10,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 51692,3951,Cauchon,Robert,1943-01-01,True,1943-01-01,True,False,False,9503,Salaberry-de-Valleyfield,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 43279,3951,Cauchon,Robert,1944-01-01,True,1949-01-01,True,False,False,9503,Salaberry-de-Valleyfield,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 81392,16057,Chadwick,Harry,1978-01-01,True,1988-01-01,True,False,False,1146,Brampton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1345,Alderman,,Municipal
 269078,8468,Chaffers,William Henry,,False,,False,False,False,8181,St-Césaire,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 174856,8468,Chaffers,William Henry,,False,,False,False,False,7359,Rouville County,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1181,Warden,,Municipal
+323592,20221,Chahal,George,2017-10-23,False,2021-09-19,False,False,False,1397,Calgary,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 69704,1761,Chamberlain,Brenda,1985-01-01,True,1993-01-01,True,False,False,9789,Wellington County's Board of Education,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,576,School Trustee,,Municipal
 51401,7344,Champagne,Albert,1904-01-01,True,1904-01-01,True,False,False,820,Battleford,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,"First Mayor of Battleford, Saskatchewan",False,223,Mayor,,Municipal
 32618,9835,Champagne,Louis Napoléon,1893-01-01,True,1893-01-01,True,False,False,3725,Hull,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
@@ -598,6 +591,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 82632,14878,Cole,John,1982-01-01,True,1988-01-01,True,False,False,5841,Newmarket,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,698,Town Councillor,,Municipal
 12311,3081,Collins,A.B. (Bernie),,False,,False,False,False,2900,Estevan,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 30934,3081,Collins,A.B. (Bernie),,False,,False,False,False,2900,Estevan,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1345,Alderman,,Municipal
+323523,20230,Collins,Chad,1995-06-01,True,2021-09-25,False,False,False,3530,Hamilton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 318928,20162,Collins,Laurel,2018-10-20,False,,False,False,False,9640,Victoria,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
 20125,2940,Comeau,Ambroise-Hilaire,1884-01-01,True,1890-01-01,True,False,False,1982,Clare County's Council,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 177385,2940,Comeau,Ambroise-Hilaire,1889-01-01,True,1990-01-01,True,False,False,1982,Clare County's Council,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1181,Warden,,Municipal
@@ -784,8 +778,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 267437,18420,Diotte,Kerry,2010-10-26,True,2013-10-29,False,False,False,2724,Edmonton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 180545,9443,Discepola,Nunzio (Nick),1983-01-01,True,1989-01-01,True,False,False,4260,Kirkland,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 51399,9443,Discepola,Nunzio (Nick),1989-01-01,True,1993-01-01,True,False,False,4260,Kirkland,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-3760,2686,Dobbie,Thomas William,1863-01-01,True,1867-01-01,True,False,False,829,Bayham Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
-180546,2686,Dobbie,Thomas William,1876-01-01,True,1877-01-01,True,False,False,829,Bayham Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 269032,6379,Dobson,John,1873-01-01,True,,False,False,False,4883,Lindsay,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During several years.,True,223,Mayor,,Municipal
 29466,9911,Domm,William Henry (Bill),1973-01-01,True,1977-01-01,True,False,False,1818,Chandos Township,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 180562,9911,Domm,William Henry (Bill),1973-01-01,True,1975-01-01,True,False,False,6499,Peterborough Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1181,Warden,,Municipal
@@ -825,13 +817,13 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 57973,9108,Drummond,John Douglas Fraser,1896-01-01,True,1898-01-01,True,False,False,5210,McGillivray Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 211195,9108,Drummond,John Douglas Fraser,1902-01-01,True,1902-01-01,True,False,False,5210,McGillivray Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 11361,3438,Dubé,Jean-Eudes,1959-01-01,True,1963-01-01,True,False,False,1435,Campbellton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
-211282,5226,Duchesnay,Henri Elzéar Juchereau,1968-01-01,True,1970-01-01,True,False,False,8739,Ste-Marie de Beauce,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 72314,844,Duchesnay,Henri Jules Juchereau,,False,,False,False,False,8739,Ste-Marie de Beauce,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 211290,844,Duchesnay,Henri Jules Juchereau,,False,,False,False,False,845,Beauce County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1181,Warden,,Municipal
 30852,11539,Duff,William,1916-01-01,True,1922-01-01,True,False,False,5011,Lunenburg,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 269054,9889,Duffus,Joseph James,1909-01-01,True,1915-01-01,True,False,False,6504,Peterborough,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1345,Alderman,,Municipal
 269053,9889,Duffus,Joseph James,1916-01-01,True,1917-01-01,True,False,False,6504,Peterborough,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-45189,11050,Dugas,Firmin,1860-01-01,True,1862-07-01,True,False,False,7578,Saint-Liguori',,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+322506,17301,Dufour,Nicolas,2021-11-07,False,,False,False,False,15374,Repentigny,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
+45189,11050,Dugas,Firmin,1860-01-01,True,1862-07-01,True,False,False,7578,Saint-Liguori,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 56030,11050,Dugas,Firmin,1860-07-08,False,1861-07-08,False,False,False,7577,Saint-Liguori's School Commission,,,29,School Board,True,False,,0,Political Party,6,,,0,0,,,,0,False,False,,False,902,President,0.0,Minister For Portfolio|Officers of Party Caucuses and Executives|Deputy Minister|Political Party
 10365,11050,Dugas,Firmin,1865-07-08,False,1868-07-27,False,False,False,7577,Saint-Liguori's School Commission,,,29,School Board,True,False,,0,Political Party,6,,,0,0,,,,0,False,False,,False,902,President,0.0,Minister For Portfolio|Officers of Party Caucuses and Executives|Deputy Minister|Political Party
 269022,9045,Dugas,François Octave,1890-01-01,True,1900-01-01,True,False,False,4040,Joliette,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,697,Town Councillor,,Municipal
@@ -845,6 +837,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 35538,713,Duncan,John,1982-01-01,True,1983-01-01,True,False,False,9417,Ucluelet,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 74185,2364,Duncan,Matthew Robert,1905-01-01,True,1906-01-01,True,False,False,6295,Owen Sound,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 39518,2364,Duncan,Matthew Robert,,False,,False,False,False,6295,Owen Sound,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 11 years,True,1346,Alderman,,Municipal
+322568,11705,Duplain,Claude,2021-11-07,False,,False,False,False,8372,St-Raymond,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 281157,4427,Dupré,Hercule,1894-01-01,True,1900-01-01,True,False,False,5470,Montreal,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 281158,3448,Dupuis,Hector,1930-01-01,True,1940-01-01,True,False,False,5470,Montreal,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 89766,11481,Dupuis,Vincent,1928-01-01,True,1930-01-01,True,False,False,4474,Laprairie,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,698,Town Councillor,,Municipal
@@ -926,7 +919,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 269142,465,Ferguson,Rork Scott,1934-01-01,True,1934-01-01,True,False,False,6495,Peterborough County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1181,Warden,,Municipal
 214552,465,Ferguson,Rork Scott,1941-01-01,True,1954-01-01,True,False,False,6051,Norwood,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 77961,465,Ferguson,Rork Scott,,False,,False,False,False,2593,Dummer Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
-28007,7999,Ferguson,Thomas Roberts,1858-01-01,True,1858-01-01,True,False,False,3937,Innisfil Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 1562,6630,Fergusson,Muriel McQueen,1951-01-01,True,1953-01-01,True,False,False,3139,Fredericton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 84935,6630,Fergusson,Muriel McQueen,1953-01-01,True,1953-01-01,True,False,False,3139,Fredericton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1639,Deputy Mayor,,Municipal
 85793,12927,Ferland,Marc,,False,1984-01-01,True,False,False,8161,St-Basile South,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,Until 1984,False,223,Mayor,,Municipal
@@ -986,7 +978,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 68536,3797,Forke,Robert,,False,,False,False,False,6568,Pipestone,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 20 years,True,553,Reeve,,Municipal
 71823,4451,Fortier,Edmond,,False,,False,False,False,4421,Lambton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 215728,5125,Fortier,Hyacinthe-Adélard,1912-01-15,False,1912-12-30,False,False,False,3725,Hull,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
-96583,11781,Fortier,Moïse,,False,,False,False,False,8210,St-David,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 20 years,True,223,Mayor,,Municipal
 171159,17908,Fortin,Jean-François,2003-01-01,True,2006-01-01,True,False,False,10897,Sainte-Flavie,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 164566,17908,Fortin,Jean-François,2006-04-01,True,2009-11-01,True,False,False,10897,Sainte-Flavie,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 309290,17908,Fortin,Jean-François,2017-11-05,False,,False,False,False,10897,Sainte-Flavie,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
@@ -1023,7 +1014,8 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 216049,421,Frost,Francis Theodore,1879-01-01,True,1880-01-01,True,False,False,4438,Lanark County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1181,Warden,,Municipal
 37401,421,Frost,Francis Theodore,1883-01-01,True,1883-01-01,True,False,False,7951,Smiths Falls,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,"First Mayor of Smiths Falls, Ontario",False,223,Mayor,,Municipal
 89974,16603,Fréchette,Louis-Israël Côté Alias,,False,,False,False,False,8232,St-Ferdinand d'Halifax,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
-58567,13604,Frémont,Jules Joseph Taschereau,1890-01-01,True,1894-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+322614,13604,Frémont,Jules Joseph Taschereau,1889-10-26,False,1890-03-01,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
+58567,13604,Frémont,Jules Joseph Taschereau,1890-03-01,False,1894-04-02,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 17384,14331,Fulford,George Taylor,,False,,False,False,False,1236,Brockville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 12 years,True,698,Town Councillor,,Municipal
 43505,12775,Fulton,Oscar,1877-01-01,True,1878-01-01,True,False,False,7367,Roxborough Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 88339,4673,Gaffney,Beryl,1978-01-01,True,1988-01-01,True,False,False,5737,Nepean,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,562,Regional Councillor,,Municipal
@@ -1042,8 +1034,8 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 100976,2434,Garland,William Foster,1912-01-01,True,1912-01-01,True,False,False,6271,Ottawa,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 164569,17849,Garrison,Randall,2008-11-01,True,2011-01-01,True,False,False,10898,Esquimalt,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 28595,13638,Gaudet,Athanase,1882-01-01,True,1888-01-01,True,False,False,3221,Gentilly,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-114868,6190,Gaudet,Roger,1985-01-01,True,1989-01-01,True,False,False,7578,Saint-Liguori',,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
-51276,6190,Gaudet,Roger,1989-11-05,False,2003-01-13,False,False,False,7578,Saint-Liguori',,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+114868,6190,Gaudet,Roger,1985-01-01,True,1989-01-01,True,False,False,7578,Saint-Liguori,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
+51276,6190,Gaudet,Roger,1989-11-05,False,2003-01-13,False,False,False,7578,Saint-Liguori,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 39735,6190,Gaudet,Roger,1993-01-01,True,2002-11-26,False,False,False,5431,Montcalm's Regional Municipality,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 95242,4394,Gauthier,Charles-Arthur,,False,,False,False,False,5395,Mistassini,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 2 years,True,223,Mayor,,Municipal
 16929,4394,Gauthier,Charles-Arthur,,False,,False,False,False,5395,Mistassini,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 8 years,True,1346,Alderman,,Municipal
@@ -1288,8 +1280,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 107773,6440,Holland,Mark,2000-12-01,False,2004-06-28,False,False,False,2624,Durham County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 93915,6440,Holland,Mark,2004-01-01,True,2004-06-01,True,True,False,6533,Pickering,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 118577,7836,Hollingworth,Allan Henry,,False,,False,False,False,5997,North York,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 2 years,True,1227,Councillor,,Municipal
-234891,13564,Holmes,John,,False,,False,False,False,1738,Carleton County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 5 years,True,553,Reeve,,Municipal
-69146,13564,Holmes,John,,False,,False,False,False,3780,Huntley Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 7 years,True,553,Reeve,,Municipal
 53243,13892,Holmes,John Robert,1962-01-01,True,1962-01-01,True,False,False,9694,Wallaceburg,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,698,Town Councillor,,Municipal
 69480,13892,Holmes,John Robert,1963-01-01,True,1968-01-01,True,False,False,9695,Wallaceburg's Township School Board,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,Served one year as Chairman,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 74536,13892,Holmes,John Robert,1969-01-01,True,1970-01-01,True,False,False,4144,Kent County's Regional School Board,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
@@ -1320,7 +1310,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 119616,5106,Hunt,Aylmer Byron,,False,,False,False,False,1351,Bury Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 236456,5106,Hunt,Aylmer Byron,,False,,False,False,False,2124,Compton County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1181,Warden,,Municipal
 132725,10630,Huntington,Lucius Seth,1855-07-05,False,1860-01-09,False,False,False,7854,Shefford Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,731,Municipal Councillor,,Municipal
-7466,8983,Hurdon,Francis,,False,,False,False,False,4193,Kincardine,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 2 years,True,698,Town Councillor,,Municipal
 1895,9922,Hurlburt,Kenneth Earl,1967-01-01,True,1971-01-01,True,False,False,3083,Fort MacLeod,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 236563,13064,Hurley,Jeremiah M.,,False,,False,False,False,11195,Thurlow,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 269134,13064,Hurley,Jeremiah M.,,False,,False,False,False,3590,Hastings County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 12 years,True,1227,Councillor,,Municipal
@@ -1329,7 +1318,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 36878,3842,Hushion,William James,1914-01-01,True,1928-01-01,True,False,False,5470,Montreal,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 42964,526,Hutchins,William Henry,,False,,False,False,False,6366,Parkhill,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 5281,526,Hutchins,William Henry,,False,,False,False,False,4991,Lucan,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 2 years,True,553,Reeve,,Municipal
-134816,17048,Hutchison,Richard,,False,,False,False,False,5828,Newcastle,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,576,School Trustee,,Municipal
 60340,4553,Hutchison,William H.,1885-01-01,True,1891-01-01,True,False,False,6271,Ottawa,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 44662,4588,Hyman,Charles Smith,1882-01-01,True,1883-01-01,True,False,False,4944,London,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 50183,4588,Hyman,Charles Smith,1884-01-01,True,1884-01-01,True,False,False,4944,London,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
@@ -1339,7 +1327,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 49801,5554,Hymmen,Kieth Reinhardt,1963-01-01,True,1965-01-01,True,False,False,4267,Kitchener,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 284985,18806,Hébert,Richard,2013-11-05,False,2017-10-01,True,False,False,12302,Dolbeau-Mistassini,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 284986,18806,Hébert,Richard,,False,,False,False,False,12302,Dolbeau-Mistassini,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1346,Alderman,,Municipal
-268898,9117,Irvine,George,1859-01-01,True,1862-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 68040,9474,Irvine,John Alfred,1960-01-01,True,1963-01-01,True,False,False,4944,London,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 107374,4668,Irwin,Ron,1967-01-01,True,1968-01-01,True,False,False,7692,Sault Ste Marie's Board of Education,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,708,Trustee,,Municipal
 49309,4668,Irwin,Ron,1969-01-01,True,1971-01-01,True,False,False,7694,Sault Ste Marie,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
@@ -1410,8 +1397,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 215651,12471,Kelly,Norman,1994-01-01,False,1997-01-01,False,False,False,9283,Toronto's Metropolitain,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 215652,12471,Kelly,Norman,1997-01-01,True,2018-10-21,False,False,False,9280,Toronto,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 215653,12471,Kelly,Norman,2013-01-01,True,2014-10-26,False,False,False,9280,Toronto,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1639,Deputy Mayor,,Municipal
-5985,3596,Kempt,George,,False,,False,False,False,4883,Lindsay,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
-52349,3596,Kempt,George,,False,,False,False,False,9630,Victoria County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
 114305,9920,Kendall,Arthur Samuel,1888-01-01,True,1888-01-01,True,False,False,9095,Sydney,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,698,Town Councillor,,Municipal
 10354,1046,Kendry,James,1892-01-01,True,1896-01-01,True,False,False,6504,Peterborough,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 49624,14738,Kennedy,Donald MacBeth,1917-01-01,True,1917-01-01,True,False,False,2937,Fairview,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,731,Municipal Councillor,,Municipal
@@ -1442,7 +1427,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 20046,15831,Kirk,John Angus,1880-01-01,True,1886-01-01,True,False,False,8533,St. Mary's,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 119899,13016,Kirkby,Gordon,1985-10-01,True,1988-01-01,True,False,False,6779,Prince Albert (SK),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 16600,13016,Kirkby,Gordon,1988-01-01,True,1993-01-01,True,False,False,6779,Prince Albert (SK),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-76179,9433,Kirkpatrick,Thomas,1838-01-01,True,1839-01-01,True,False,False,4242,Kingston,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 8050,4490,Klock,James Bell,,False,,False,False,False,1425,Cameron Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 55107,2198,Kloepfer,Christian,,False,,False,False,False,3438,Guelph,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
 77896,6966,Knowles,John Evans,1952-01-01,True,1956-01-01,True,False,False,9700,Walsingham Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
@@ -1451,6 +1435,8 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 118529,13510,Korchinski,Stanley James,1952-01-01,True,1958-01-01,True,False,False,3981,Invermay,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 10192,9398,Kramp,Daryl,,False,,False,False,False,5047,Madoc,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,178,Deputy Reeve,,Municipal
 104781,9398,Kramp,Daryl,,False,,False,False,False,5047,Madoc,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
+322493,20231,Kramp-Neuman,Shelby,,False,,False,False,False,15373,Centre Hastings,,,11,Municipal Government,False,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
+322492,20231,Kramp-Neuman,Shelby,,False,,False,False,False,15373,Centre Hastings,,,11,Municipal Government,False,False,,0,,0,,,0,0,,,,0,False,False,,True,1639,Deputy Mayor,,Municipal
 84119,6071,Kranz,Hugo,1869-01-01,True,1870-01-01,True,False,False,950,Berlin (Ontario),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 47600,6071,Kranz,Hugo,1874-01-01,True,1878-01-01,True,False,False,950,Berlin (Ontario),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 268886,16055,Kucherepa,John William,1952-01-01,True,1957-01-01,True,False,False,9280,Toronto,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
@@ -1488,8 +1474,8 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 269034,9656,Lamb,Charles Wesley,1942-01-01,True,1953-01-01,True,False,False,4883,Lindsay,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 249139,9656,Lamb,Charles Wesley,,False,,False,False,False,4883,Lindsay,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
 364,3698,Lambert,Joseph Adrien Henri,1944-01-01,True,1970-01-01,True,False,False,8284,St-Janvier-de-Joly,,,11,Municipal Government,True,False,,0,Political Party,6,1968-09-12T00:00:00Z,1972-09-01T00:00:00Z,28,7027,Ralliement des créditistes,1968-06-25,1971-03-31,0,False,False,<P>Founding member of the municipality of St-Janvier-de-Joly</P>,False,629,Secretary-Treasurer,0.0,Officers of Party Caucuses and Executives|Political Party
-46106,16295,Lamontagne,J. Gilles,1962-01-01,True,1965-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
-47693,16295,Lamontagne,J. Gilles,1965-01-01,True,1978-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+46106,16295,Lamontagne,J. Gilles,1962-12-01,False,1965-12-01,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
+47693,16295,Lamontagne,J. Gilles,1965-12-01,False,1977-12-01,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 25386,6723,Lanctôt,Roch,,True,1904-01-01,True,False,False,8199,St-Constant,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 177604,2318,Landry,Jean,2005-01-01,True,2009-01-01,True,False,False,10980,Saint-Valère,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,731,Municipal Councillor,,Municipal
 102793,12793,Lane,Samuel Johnathan,1865-01-01,True,1872-01-01,True,False,False,3417,Grey County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
@@ -1502,17 +1488,15 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 232176,4975,Lang,John,,False,,False,False,False,6248,Otonabee,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 269141,4975,Lang,John,,False,,False,False,False,6495,Peterborough County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,For 12 years.,True,1227,Councillor,,Municipal
 69838,10698,Lang,Norman,,False,,False,False,False,493,Allan,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 7 years,True,731,Municipal Councillor,,Municipal
-100600,5893,Langelier,François Charles Stanislas,1882-01-01,True,1890-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-38581,12908,Langevin,Hector-Louis,1858-01-01,True,1861-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-4449,12908,Langevin,Hector-Louis,1863-01-01,True,1863-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-71949,12908,Langevin,Hector-Louis,1864-01-01,True,1864-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-109478,12908,Langevin,Hector-Louis,,False,,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
+322613,5893,Langelier,François Charles Stanislas,1882-04-11,False,1882-05-01,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
+100600,5893,Langelier,François Charles Stanislas,1882-05-01,False,1890-03-01,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+109478,12908,Langevin,Hector-Louis,1855-02-12,False,1858-01-18,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
+38581,12908,Langevin,Hector-Louis,1858-01-19,False,1861-01-22,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 268931,11753,Lapierre,Réal,1971-01-01,True,1974-01-01,True,False,False,866,Beaumont,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 268932,11753,Lapierre,Réal,1974-01-01,True,1985-01-01,True,False,False,866,Beaumont,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 268933,11753,Lapierre,Réal,1994-01-01,True,2004-01-01,True,False,False,866,Beaumont,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 39273,11753,Lapierre,Réal,2001-01-01,True,2004-01-01,True,False,False,915,Bellechasse's Regional Municipality,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,900,Prefect,,Municipal
 77962,14395,Lapointe,Louis Audet,,True,1916-01-01,True,False,False,5470,Montreal,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,"A candidate for the mayoralty of Montreal, Quebec, 1916, but defeated",False,1346,Alderman,,Municipal
-83167,10220,Lapum,James N.,,False,,False,False,False,1420,Camden Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 7 years,True,553,Reeve,,Municipal
 109214,10231,Larrivée,Gaby,1983-01-01,True,1988-01-01,True,False,False,8188,St-Charles-Borromée,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 26633,10231,Larrivée,Gaby,1987-01-01,True,1988-01-01,True,False,False,4038,Joliette County's Regional Municipality,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,708,Trustee,,Municipal
 318788,20147,Lattanzio,Patricia,2015-11-15,False,2017-11-04,False,False,False,5470,Montreal,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
@@ -1530,11 +1514,12 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 96182,1861,Lavergne,Louis,,False,,False,False,False,627,Arthabaska,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 29321,1144,Lavigne,Albert Peter,1948-01-01,True,1953-01-01,True,False,False,2209,Cornwall Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 32540,1144,Lavigne,Albert Peter,1954-01-01,True,1954-01-01,True,False,False,2209,Cornwall Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,724,Deputy Reeve,,Municipal
-78939,5154,Lavigueur,Henri-Edgar,1932-01-01,True,1932-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+322616,5154,Lavigueur,Henri-Edgar,1906-03-01,False,1916-03-01,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
+78939,5154,Lavigueur,Henri-Edgar,1916-03-01,False,1920-02-20,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+322615,5154,Lavigueur,Henri-Edgar,1930-02-26,False,1934-01-26,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 14833,14467,Lavoie-Roux,Thérèse,1969-01-01,True,1970-01-01,True,False,False,5471,Montreal's School Board,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,976,Commissioner,,Deputy Minister|Federal Public Office
 97977,14467,Lavoie-Roux,Thérèse,1970-01-01,True,1976-01-01,True,False,False,5471,Montreal's School Board,,,29,School Board,True,False,,0,Political Party,6,,,0,0,,,,0,False,False,,False,902,President,0.0,Minister For Portfolio|Officers of Party Caucuses and Executives|Deputy Minister|Political Party
 1237,6374,Law,Bowman Brown,,False,,False,False,False,10108,Yarmouth,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 6 years,True,698,Town Councillor,,Municipal
-88570,7540,Lawson,Peter,,False,,False,False,False,10057,Woodhouse Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 63897,3730,Layton,Jack,1981-01-01,True,1982-01-01,True,False,False,9280,Toronto,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 71750,3730,Layton,Jack,1984-01-01,True,1988-01-01,True,False,False,9283,Toronto's Metropolitain,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,846,Metropolitan Councillor,,Municipal
 101119,3730,Layton,Jack,1990-01-01,True,1990-01-01,True,False,False,9280,Toronto,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1640,Deputy Mayor,,Municipal
@@ -1662,9 +1647,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 91784,5734,Madill,John Ellwood,1952-01-01,True,1957-01-01,True,False,False,5415,Mono Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 109877,5734,Madill,John Ellwood,1957-01-01,True,1959-01-01,True,False,False,5415,Mono Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,178,Deputy Reeve,,Municipal
 80934,5734,Madill,John Ellwood,1959-01-01,True,1963-01-01,True,False,False,5415,Mono Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
-115031,3209,Magill,Charles,1854-01-01,True,1855-01-01,True,False,False,3530,Hamilton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-107174,3209,Magill,Charles,1865-01-01,True,1866-01-01,True,False,False,3530,Hamilton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-254960,3209,Magill,Charles,1882-01-01,True,1883-01-01,True,False,False,3530,Hamilton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 63122,5061,Magrath,Charles Alexander,1891-01-01,True,1891-01-01,True,False,False,4791,Lethbridge,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,"First Mayor of Lethbridge, Northwest Territories",False,223,Mayor,,Municipal
 12508,6045,Maheu,Shirley,1982-01-01,True,1988-01-01,True,False,False,8310,Saint-Laurent,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,731,Municipal Councillor,,Municipal
 52222,10868,Mahoney,Steve,1978-01-01,True,1987-01-01,True,False,False,6421,Peel's Regional Council,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
@@ -1724,7 +1706,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 255542,4984,Masson,Louis-François-Rodrigue,1867-01-01,True,1873-01-01,True,False,False,10958,Terrebonne,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1345,Alderman,,Municipal
 255543,4984,Masson,Louis-François-Rodrigue,1874-01-01,True,1875-01-01,True,False,False,10958,Terrebonne,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 255544,4984,Masson,Louis-François-Rodrigue,1878-01-01,True,1878-01-01,True,False,False,10958,Terrebonne,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-91674,10517,Masson,Luc Hyacinthe,,False,,False,False,False,2228,Coteau Landing,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 62336,3757,Masters,John Gerald (Jack),1985-01-01,True,1991-01-01,True,False,False,9211,Thunder Bay,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 269072,9461,Mathieu,Michel,1876-01-01,True,1882-01-01,True,False,False,8002,Sorel,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 61023,15177,Matthews,James Ewen,,False,,False,False,False,1863,Charlottetown,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1346,Alderman,,Municipal
@@ -1747,10 +1728,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 58546,11465,McBride,Thomas George,1909-01-01,True,1910-01-01,True,False,False,9538,Vancouver,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 29520,13651,McCall,Alexander,1893-01-01,True,1894-01-01,True,False,False,7915,Simcoe,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 65288,9607,McCallum,Lachlin,,False,,False,False,False,9453,United Townships of Sherbrooke and Moulton's Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
-46407,14436,McCarthy,Thomas,1860-01-01,True,1860-01-01,True,False,False,8002,Sorel,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
-75670,14436,McCarthy,Thomas,1862-01-01,True,1862-01-01,True,False,False,8002,Sorel,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
-95879,14436,McCarthy,Thomas,1863-01-01,True,1863-01-01,True,False,False,8002,Sorel,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
-122111,14436,McCarthy,Thomas,1865-01-01,True,1865-01-01,True,False,False,8002,Sorel,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 92004,11558,McCleary,William,,False,,False,False,False,9198,Thorold,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 255558,11558,McCleary,William,,False,,False,False,False,9778,Welland County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 26116,11558,McCleary,William,,False,,False,False,False,9198,Thorold,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
@@ -1759,8 +1736,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 94302,5278,McCoig,Archibald Blake,,True,1904-01-01,True,False,False,1887,Chatham (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 106593,8773,McColl,John B.,,False,,False,False,False,2044,Cobourg,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,178,Deputy Reeve,,Municipal
 75892,8773,McColl,John B.,,False,,False,False,False,2044,Cobourg,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
-255562,3867,McConkey,Thomas David,1860-01-01,True,1861-01-01,True,False,False,7905,Simcoe County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
-268923,3867,McConkey,Thomas David,,False,,False,False,False,786,Barrie,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 66769,550,McConville,Lewis Arthur,1879-01-01,True,1882-01-01,True,False,False,4040,Joliette,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,731,Municipal Councillor,,Municipal
 117670,16178,McCool,Charles Arthur,,False,,False,False,False,5195,Mattawa,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 2 years,True,553,Reeve,,Municipal
 255563,16178,McCool,Charles Arthur,,False,,False,False,False,11263,Mattawa School Board,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,True,576,School Trustee,,Municipal
@@ -1771,7 +1746,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 90419,14977,McCraney,William,1874-01-01,True,1876-01-01,True,False,False,6091,Oakville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 48255,1370,McCrea,Francis N.,,False,,False,False,False,2630,Durham,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 10 years,True,223,Mayor,,Municipal
 255566,1370,McCrea,Francis N.,,False,,False,False,False,11264,Drummond County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
-268959,14606,McCrea,Walter,1859-01-01,True,1859-01-01,True,False,False,1887,Chatham (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 58624,16685,McCreary,William Forsythe,1883-01-01,True,1884-01-01,True,False,False,10016,Winnipeg,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 30142,16685,McCreary,William Forsythe,1895-01-01,True,1896-01-01,True,False,False,10016,Winnipeg,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 22602,16685,McCreary,William Forsythe,1897-01-01,True,1897-01-01,True,False,False,10016,Winnipeg,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
@@ -1815,7 +1789,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 52099,2674,McGowan,John,,False,,False,False,False,6419,Peel Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,During several years,True,553,Reeve,,Municipal
 20487,5997,McGrand,Frederic Addison,1927-01-01,True,1937-01-01,True,False,False,6982,Queen's County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 255801,5997,McGrand,Frederic Addison,1935-01-01,True,1937-01-01,True,False,False,6982,Queen's County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1181,Warden,,Municipal
-87438,16773,McGreevy,Thomas,1858-01-01,True,1864-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
+87438,16773,McGreevy,Thomas,1858-01-01,True,1864-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 269039,4501,McGregor,James Drummond,1879-01-01,True,1880-01-01,True,False,False,5781,New Glasgow,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 80703,13244,McGregor,Robert Henry,1912-01-01,True,1912-01-01,True,False,False,10145,York Township's School Board,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 22028,13244,McGregor,Robert Henry,1923-01-01,True,1923-01-01,True,False,False,10146,York Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,178,Deputy Reeve,,Municipal
@@ -1873,7 +1847,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 92610,7290,McMillan,Thomas,,False,,False,False,False,3729,Hullett Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 31155,7290,McMillan,Thomas,,False,,False,False,False,3729,Hullett Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
 77756,12314,McMillan,William Hector,1948-01-01,True,1950-01-01,True,False,False,9198,Thorold,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-103741,2602,McMonies,James,1857-01-01,True,1857-01-01,True,False,False,2645,East Flamborough,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 49903,4990,McMullen,James,,False,,False,False,False,5532,Mount Forest,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 79838,4990,McMullen,James,,False,,False,False,False,5532,Mount Forest,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
 74435,12229,McNab,Archibald,,False,,False,False,False,4922,Lochiel Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
@@ -1961,7 +1934,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 71549,10415,Morin,Jean-Baptiste,,False,,False,False,False,8729,Ste-Hénédine,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 256553,10415,Morin,Jean-Baptiste,,False,,False,False,False,2519,Dorchester County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1181,Warden,,Municipal
 310918,6635,Morin,Louis-Simon-René,1914-01-01,True,1917-01-01,True,False,False,8275,St-Hyacinthe,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-86651,6193,Morison,John,,False,,False,False,False,2777,Eldon Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 83112,12210,Morris,Edmund Leverett,1974-01-01,True,1980-01-01,True,False,False,3493,Halifax,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 31021,721,Morris,James,,False,,False,False,False,8192,St-Chrysostome,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 2 years,True,223,Mayor,,Municipal
 60842,10051,Morrison,Alexander,,False,,False,False,False,2580,Dufferin,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
@@ -1986,7 +1958,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 9854,2901,Mullins,James Patrick,,False,,False,False,False,1253,Bromptonville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 56328,10342,Munn,Albert Edward,,False,,False,False,False,6218,Orillia,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 2 years,True,1227,Councillor,,Municipal
 85418,11640,Munro,John Carr,1955-01-01,True,1962-01-01,True,False,False,3530,Hamilton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
-60214,14353,Munroe,John H.,,False,,False,False,False,5287,Middlesex County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
 93821,932,Munson,Charles Arthur,1904-01-01,True,1906-01-01,True,False,False,2044,Cobourg,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 21562,932,Munson,Charles Arthur,1907-01-01,True,1908-01-01,True,False,False,2044,Cobourg,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 98550,8571,Murphy,Brian,1992-01-01,True,1998-01-01,True,False,False,5412,Moncton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,731,Municipal Councillor,,Municipal
@@ -2084,7 +2055,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 97191,4471,Parent,Louis-Étienne,1906-01-01,True,1931-01-01,True,False,False,8692,Ste-Agathe des Monts,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 25108,16050,Parker,Sidney James,,False,,False,False,False,7185,Revelstoke,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 6 years,True,223,Mayor,,Municipal
 103334,16050,Parker,Sidney James,,False,,False,False,False,7185,Revelstoke,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 2 years,True,1346,Alderman,,Municipal
-42662,15438,Parker,Thomas Sutherland,1861-01-01,True,1861-01-01,True,False,False,3438,Guelph,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 269117,11821,Parmelee,Charles Henry,,False,,False,False,False,9740,Waterloo,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,698,Town Councillor,,Municipal
 12420,5986,Parrish,Carolyn,1985-01-01,True,1990-01-01,True,False,False,6420,Peel's Board of Education,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,708,Trustee,,Municipal
 44575,5986,Parrish,Carolyn,1988-01-01,True,1990-01-01,True,False,False,6420,Peel's Board of Education,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,756,Chair,,Committee|Officers of Party Caucuses and Executives|ElectionProcessCloseDissolution
@@ -2164,8 +2134,9 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 258138,8764,Power,William,,False,,False,False,False,7892,Sillery,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,731,Municipal Councillor,,Municipal
 33716,10613,Powers,Russ,1982-01-01,True,2000-01-01,True,False,False,2602,Dundas (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 70300,10613,Powers,Russ,1995-01-01,True,2000-01-01,True,False,False,3535,Hamilton-Wentworth's Regional Council,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,562,Regional Councillor,,Municipal
-114532,10613,Powers,Russ,2001-01-01,True,2004-06-01,True,False,False,3530,Hamilton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
+114532,10613,Powers,Russ,2001-01-01,True,2004-06-01,True,False,False,3530,Hamilton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 118482,10613,Powers,Russ,2006-11-14,False,2014-10-26,False,False,False,2602,Dundas (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
+323524,10613,Powers,Russ,2021-11-01,True,,False,False,False,3530,Hamilton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,777,City Councillor,,Municipal
 27492,7766,Pratt,David,1988-01-01,True,1991-01-01,True,False,False,5737,Nepean,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 92879,7766,Pratt,David,1991-01-01,True,1997-01-01,True,False,False,6280,Ottawa-Carleton's Regional Municipality,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,562,Regional Councillor,,Municipal
 258470,16078,Pratt,Robert John,1953-01-01,True,1955-01-01,True,False,False,2526,Dorval,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
@@ -2203,7 +2174,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 48860,10644,Purcell,Patrick,,False,,False,False,False,1854,Charlottenburg Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 33162,9198,Purdy,Gordon Timlin,1934-01-01,True,1934-01-01,True,False,False,2066,Colchester,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 45304,8601,Racine,Jean-Paul,1955-01-01,True,1957-01-01,True,False,False,7546,Saint-Honoré,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-49205,10903,Rankin,John,,False,,False,False,False,7335,Ross Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 6 years,True,553,Reeve,,Municipal
 321495,18118,Rankin,Murray,2020-10-24,False,,False,False,False,6083,Oak Bay,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,2997,Provincial Constituency Member,,Prov
 281206,7904,Ratelle,J.-Georges,1938-01-01,True,1950-01-01,True,False,False,5470,Montreal,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,731,Municipal Councillor,,Municipal
 18899,2056,Ratz,Valentine,1879-01-01,True,1879-01-01,True,False,False,8779,Stephen Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,731,Municipal Councillor,,Municipal
@@ -2215,7 +2185,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 86729,14568,Raymond,William Gawtress,1890-01-01,True,1895-01-01,True,False,False,1183,Brantford,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 84764,14568,Raymond,William Gawtress,1898-01-01,True,1899-01-01,True,False,False,1183,Brantford,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 310906,3911,Rea,Charles Edward,1932-01-01,True,1938-01-01,True,False,False,5792,New Liskeard,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,698,Town Councillor,,Municipal
-310920,2930,Redford,James,,False,,False,False,False,8816,Stratford (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,698,Town Councillor,,Municipal
 50756,924,Redman,Karen,1988-01-01,True,1994-01-01,True,False,False,9745,Waterloo's County School Board,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,708,Trustee,,Municipal
 23966,924,Redman,Karen,,False,,False,False,False,9749,Waterloo's Regional Municipality,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
 269029,924,Redman,Karen,,False,,False,False,False,4267,Kitchener,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
@@ -2506,6 +2475,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 53256,7400,Snowball,William Bunting,1919-01-01,True,1919-01-01,True,False,False,1886,Chatham (NB),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 92568,13680,Soetens,René John,1980-01-01,True,1988-01-01,True,False,False,442,Ajax,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,731,Municipal Councillor,,Municipal
 268768,18422,Sohi,Amarjeet,2007-01-01,True,2013-01-01,True,False,False,2724,Edmonton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
+322351,18422,Sohi,Amarjeet,2021-10-18,False,,False,False,False,2724,Edmonton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 103201,2737,Somerville,James,,False,,False,False,False,9833,West Flamborough Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,178,Deputy Reeve,,Municipal
 33758,2737,Somerville,James,,False,,False,False,False,2602,Dundas (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 71018,2737,Somerville,James,,False,,False,False,False,9833,West Flamborough Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
@@ -2528,8 +2498,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 39286,8552,Spotton,George,,False,,False,False,False,9989,Wingham,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 3 years,True,223,Mayor,,Municipal
 35640,8552,Spotton,George,,False,,False,False,False,9989,Wingham,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 10 years,True,698,Town Councillor,,Municipal
 269160,10756,Springer,Lewis,1891-01-01,True,1895-01-01,True,False,False,9811,Wentworth County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,582,Secretary,81.0,Principal Secretaries to the Prime Minister
-260183,14030,Sproat,Alexander,1864-01-01,True,1873-01-01,True,False,False,1268,Bruce County,,,5,Regional Government,True,False,,0,Cabinet,4,1867-11-06T00:00:00Z,1872-07-08T00:00:00Z,1,2158,Conservative (1867-1942),1867-09-20,1872-10-11,0,False,False,,False,703,Treasurer,0.0,Minister|Parliamentary function
-40469,14030,Sproat,Alexander,1876-01-01,True,1876-01-01,True,False,False,9687,Walkerton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 68808,1354,Sproule,John Thomas,,False,,False,False,False,6124,Oil Springs Village,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 11 years,True,553,Reeve,,Municipal
 2158,1354,Sproule,John Thomas,,False,,False,False,False,6124,Oil Springs Village,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 25 years,True,1227,Councillor,,Municipal
 7135,5656,Sproule,Thomas Simpson,1884-01-01,False,1884-01-01,False,False,False,5144,Markdale's Municipality,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,698,Town Councillor,,Municipal
@@ -2592,6 +2560,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 40450,8989,Stewart,Dugald,1901-01-01,True,1907-01-01,True,False,False,1197,Bridgewater,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 47172,8989,Stewart,Dugald,1907-01-01,True,1910-01-01,True,False,False,1197,Bridgewater,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 88332,6276,Stewart,Hugh Alexander,1905-01-01,True,1906-01-01,True,False,False,1236,Brockville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+322412,20240,Stewart,Jake,2008-10-28,True,2010-10-28,True,False,False,15371,Blackville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 269049,8203,Stewart,John Alexander,,True,1904-01-01,True,False,False,6476,Perth,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 317371,17845,Stewart,Kennedy,2018-10-20,False,,False,False,False,9538,Vancouver,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 260413,1757,Stewart,Robert,,False,,False,False,False,6273,Ottawa's School Board,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,During 3 years.,True,576,School Trustee,,Municipal
@@ -2608,6 +2577,8 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 27232,16814,Storseth,Brian,2001-01-01,True,2005-01-01,True,False,False,782,Barrhead,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,698,Town Councillor,,Municipal
 260419,2026,Stubbs,William,,False,,False,False,False,11514,Caledon Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 28365,5506,Studer,Irvin William,,False,,False,False,False,4359,Lac Pelletier,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
+323013,20233,Sudds,Jenna,2018-12-01,True,2021-09-19,False,False,False,6271,Ottawa,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
+323012,20233,Sudds,Jenna,2020-12-01,True,2021-09-19,False,False,False,6271,Ottawa,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1639,Deputy Mayor,,Municipal
 269028,8187,Sullivan,Michael,1863-01-01,True,1873-01-01,True,False,False,4242,Kingston,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 269027,8187,Sullivan,Michael,1874-01-01,True,1875-01-01,True,False,False,4242,Kingston,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 72180,12702,Sutherland,Donald,1896-01-01,True,1896-01-01,True,False,False,5966,North Oxford Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
@@ -2617,14 +2588,13 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 4058,13607,Sutherland,James,1880-01-01,True,1880-01-01,True,False,False,10062,Woodstock (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 260472,5790,Sutherland,John,1866-01-01,True,1869-01-01,True,False,False,670,Assiniboia,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 269122,11085,Sutherland,Robert Franklin,,False,,False,False,False,9978,Windsor (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1345,Alderman,,Municipal
-49642,2615,Sylvain,Georges,1855-01-01,True,1876-01-01,True,False,False,977,Le Bic,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 46080,9678,Séguin,Paul-Arthur,,False,,False,False,False,4310,L'Assomption,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 259692,9678,Séguin,Paul-Arthur,,False,,False,False,False,11474,Assomption,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,For 6 years.,True,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 93070,11477,Tanner,Charles Elliott,1885-01-01,True,1888-01-01,True,False,False,6548,Pictou,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,698,Town Councillor,,Municipal
 39689,6604,Tardif,Paul,1937-01-01,True,1943-01-01,True,False,False,6273,Ottawa's School Board,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,708,Trustee,,Municipal
 28897,6604,Tardif,Paul,1942-01-01,True,1948-01-01,True,False,False,6271,Ottawa,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 59805,6604,Tardif,Paul,1955-01-01,True,1959-01-01,True,False,False,6271,Ottawa,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1639,Deputy Mayor,,Municipal
-104839,14579,Taschereau,Henri Thomas,,False,,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
+104839,14579,Taschereau,Henri Thomas,,False,,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,777,City Councillor,,Municipal
 260524,9865,Taschereau,Thomas Linière,1891-01-01,True,1893-01-01,True,False,False,10793,Saint-Joseph-de-Beauce,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 268779,18502,Tassi,Filomena,,True,,True,False,False,11265,Hamilton Board of Education,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,True,576,School Trustee,,Municipal
 260527,9568,Taylor,Charles Keith,,False,,False,False,False,11523,Flin Flon School Division,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,True,576,School Trustee,,Municipal
@@ -2640,9 +2610,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 36958,5895,Temple,Anthony Robert,1952-01-01,True,1962-01-01,True,False,False,925,Belleville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 260653,5895,Temple,Anthony Robert,1960-01-01,True,1961-01-01,True,False,False,925,Belleville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1639,Deputy Mayor,,Municipal
 4252,1898,Tessier,Claude,1973-01-01,True,1976-01-01,True,False,False,4364,Lac-Mégantic,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
-268907,5341,Tessier,Jules,1886-01-01,True,1900-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
-268897,11324,Tessier,Ulric Joseph,1846-01-01,True,1853-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
-268896,11324,Tessier,Ulric Joseph,1853-01-01,True,1854-01-01,True,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
+268907,5341,Tessier,Jules,1886-01-01,True,,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,777,City Councillor,,Municipal
 269037,9967,Thatcher,Wilbert Ross,1942-01-01,True,1944-01-01,True,False,False,5496,Moose Jaw,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1345,Alderman,,Municipal
 106165,8234,Thauvette,Joseph,,False,,False,False,False,9557,Vaudreuil,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 12223,12251,Thibault,Louise,2003-01-01,True,2003-12-31,True,False,False,977,Le Bic,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
@@ -2655,7 +2623,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 43543,1720,Thompson,Arthur Lisle,1926-01-01,True,1927-01-01,True,False,False,1887,Chatham (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 260788,2021,Thompson,Frederick Pemberton,,False,,False,False,False,10133,York County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,For 3 years.,True,1181,Warden,,Municipal
 3097,2021,Thompson,Frederick Pemberton,,False,,False,False,False,10133,York County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,For 6 years.,True,1227,Councillor,,Municipal
-36950,8749,Thompson,John Hall,,False,,False,False,False,1229,Brock Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 15 years,True,553,Reeve,,Municipal
 85854,1860,Thompson,John Sparrow David,1871-10-01,True,1872-01-01,True,False,False,3493,Halifax,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 67198,1860,Thompson,John Sparrow David,1874-01-01,True,1877-10-01,True,False,False,3493,Halifax,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 79012,16024,Thompson,Myron,1974-01-01,True,1980-01-01,True,False,False,9030,Sundre,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
@@ -2688,6 +2655,8 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 66381,10769,Tobin,Stephen,1878-01-01,True,1881-01-01,True,False,False,3493,Halifax,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 108482,10769,Tobin,Stephen,,False,,False,False,False,3493,Halifax,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,777,City Councillor,,Municipal
 62321,14356,Tolmie,Donald Ross,1957-01-01,True,1965-01-01,True,False,False,9779,Welland,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
+322491,20243,Tolmie,Fraser,2009-01-01,False,2012-01-01,False,False,False,5496,Moose Jaw,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
+322490,20243,Tolmie,Fraser,2016-01-01,True,2021-08-18,False,False,False,5496,Moose Jaw,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 12615,6662,Tolmie,John,,False,,False,False,False,4193,Kincardine,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,178,Deputy Reeve,,Municipal
 29933,6662,Tolmie,John,,False,,False,False,False,4193,Kincardine,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 90668,6662,Tolmie,John,,False,,False,False,False,1276,Bruce Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
@@ -2696,7 +2665,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 121441,9583,Tonks,Alan,1982-01-01,True,1988-01-01,True,False,False,10150,York,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 268891,9583,Tonks,Alan,1988-01-01,True,1997-01-01,True,False,False,9283,Toronto's Metropolitain,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,756,Chair,,Committee|Officers of Party Caucuses and Executives|ElectionProcessCloseDissolution
 67327,9583,Tonks,Alan,,False,,False,False,False,10162,York-Humber,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
-4967,15314,Tourangeau,Adolphe Guillet dit,1863-01-20,False,1863-07-03,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
+4967,15314,Tourangeau,Adolphe Guillet dit,1863-01-20,False,1863-07-03,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 32801,15314,Tourangeau,Adolphe Guillet dit,1863-07-03,False,1866-07-12,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 106510,15314,Tourangeau,Adolphe Guillet dit,1870-01-10,False,1870-05-02,False,False,False,6962,Québec City,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 45342,5225,Tousignant,Henri,,False,,False,False,False,6333,Palmarolle,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 4 years in the early 60's,True,1346,Alderman,,Municipal
@@ -2775,13 +2744,9 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 73457,1070,Wallace,Mike,1994-10-01,False,2005-10-01,False,False,False,1322,Burlington,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 98579,2582,Wallace,Nathaniel Clarke,1874-01-01,True,1878-01-01,True,False,False,9566,Vaughan Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,178,Deputy Reeve,,Municipal
 211492,2582,Wallace,Nathaniel Clarke,1878-01-01,True,1878-01-01,True,False,False,11125,York County,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1181,Warden,,Municipal
-111301,13471,Wallace,Robert,1863-01-01,True,1864-01-01,True,False,False,9640,Victoria,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 93491,9444,Wallace,William,1858-01-01,True,1858-01-01,True,False,False,7915,Simcoe,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 211483,9444,Wallace,William,1884-01-01,True,1884-01-01,True,False,False,7915,Simcoe,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 30009,9444,Wallace,William,,False,,False,False,False,5914,Norfolk County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1227,Councillor,,Municipal
-35188,14134,Walsh,Aquila,1857-01-01,True,1857-01-01,True,False,False,7915,Simcoe,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
-58764,14134,Walsh,Aquila,1859-01-01,True,1859-01-01,True,False,False,7915,Simcoe,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
-211482,14134,Walsh,Aquila,1882-01-01,True,1882-01-01,True,False,False,7915,Simcoe,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 72736,4794,Walsh,Robert Nelson,,False,,False,False,False,3776,Huntingdon,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 6 years,True,223,Mayor,,Municipal
 61754,4794,Walsh,Robert Nelson,,False,,False,False,False,3776,Huntingdon,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,During 12 years,True,698,Town Councillor,,Municipal
 91880,10924,Warawa,Mark,1990-01-01,True,2004-01-01,True,False,False,358,Abbotsford,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
@@ -2807,7 +2772,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 16368,15708,Weiner,Gérard (Gerry),1982-01-01,True,1984-01-01,True,False,False,2493,Dollard-des-Ormeaux,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 29002,1971,Welch,Frank Corbett,1945-01-01,True,1948-01-01,True,False,False,10036,Wolfville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 113481,1971,Welch,Frank Corbett,1948-01-01,True,1960-01-01,True,False,False,10036,Wolfville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1639,Deputy Mayor,,Municipal
-61036,1961,Wells,James Pearson,,False,,False,False,False,4200,King Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 64530,8970,Wenman,Robert Lloyd,1972-01-01,True,1974-01-01,True,False,False,9053,Surrey,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 209006,9265,Wermenlinger,Edgard Jules,1932-01-01,True,1935-01-01,True,False,False,11107,Verdun,,,29,School Board,True,False,,0,,0,,,0,0,,,,0,False,False,,False,573,School Commissioner,,Municipal
 111757,9265,Wermenlinger,Edgard Jules,1933-01-01,True,1935-01-01,True,False,False,9584,Verdun,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
@@ -2826,11 +2790,9 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 27089,10401,White,John Franklin,1913-01-01,True,1914-01-01,True,False,False,4944,London,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 105827,4629,White,Peter,1870-01-01,True,1875-01-01,True,False,False,6434,Pembroke,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 63827,5097,White,Thomas,,False,,False,False,False,6504,Peterborough,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
-110669,7857,Whitehead,Joseph,,False,,False,False,False,2015,Clinton,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,223,Mayor,,Municipal
 53581,5822,Whiteside,Harry B.,1945-01-01,True,1947-01-01,True,False,False,2017,Clinworth,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 40587,9948,Whittaker,John R. (Jack),1984-01-01,True,1986-01-01,True,False,False,6241,Osoyoos,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1346,Alderman,,Municipal
 52385,9948,Whittaker,John R. (Jack),1986-01-01,True,1989-01-01,True,False,False,6128,Okanagan - Similkameen's District,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1244,Deputy Director,,Municipal
-50646,9482,Wier,Benjamin,,False,,False,False,False,3493,Halifax,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,1346,Alderman,,Municipal
 28292,2172,Wigle,Lewis,1902-01-01,True,1904-01-01,True,False,False,4540,Leamington,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 64150,2172,Wigle,Lewis,,False,,False,False,False,5261,Mersea Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 269064,12708,Wigmore,Rupert Wilson,1909-01-01,True,1912-01-01,True,False,False,7508,Saint John,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1345,Alderman,,Municipal
@@ -2872,7 +2834,6 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 4588,348,Worthington,Arthur Norreys,1901-01-01,True,1902-01-01,True,False,False,7873,Sherbrooke,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 66856,13845,Wratten,Jack,1955-01-01,True,1957-01-01,True,False,False,1181,Brantford Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 198536,13845,Wratten,Jack,1956-01-01,True,1956-01-01,True,False,False,1165,Brant County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1181,Warden,,Municipal
-54681,17094,Wright,Amos,1850-01-01,True,1850-01-01,True,False,False,5154,Markham,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 26261,11223,Wright,David McKenzie,,False,,False,False,False,8816,Stratford (ON),,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,777,City Councillor,,Municipal
 1486,1800,Wright,William,,False,,False,False,False,3782,Huntsville,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
 54564,1800,Wright,William,,False,,False,False,False,1793,Chaffey Township,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,True,553,Reeve,,Municipal
@@ -2892,6 +2853,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 247347,18279,Yurdiga,David,2009-01-01,True,2013-01-01,True,False,False,11215,Athabasca County,,,5,Regional Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,553,Reeve,,Municipal
 51608,7778,Zaplitny,Frederick Samuel,1950-01-01,True,1952-01-01,True,False,False,2370,Dauphin,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
 281211,17297,Zarac,Lise,2005-01-01,True,2008-10-01,True,False,False,5470,Montreal,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,1227,Councillor,,Municipal
+322505,20248,Zarrillo,Bonita,2013-01-01,True,2021-01-01,True,False,False,2197,Coquitlam,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,777,City Councillor,,Municipal
 51912,5305,de Savoye,Pierre,1976-01-01,True,1977-01-01,True,False,False,7612,Sainte-Pétronille-de-l'île d'Orléans,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,731,Municipal Councillor,,Municipal
 180228,5305,de Savoye,Pierre,2005-01-01,True,2009-01-01,True,False,False,6702,Portneuf,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
 82194,898,Éthier,Joseph Arthur Calixte,1899-01-01,True,1906-01-01,True,False,False,8763,Ste-Scholastique,,,11,Municipal Government,True,False,,0,,0,,,0,0,,,,0,False,False,,False,223,Mayor,,Municipal
