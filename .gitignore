@@ -1,7 +1,8 @@
 # Raw data
-data/parliaments/parliament-*.csv
-data/parliaments/parliament-*.json
-data/people/*-*.json
+ca/data/parliaments/parliament-*.csv
+ca/data/parliaments/parliament-*.json
+ca/data/people/*-*.json
+au/src/*.jl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -113,3 +114,11 @@ venv.bak/
 
 # Mac stuff
 **/.DS_Store
+au/src/.vscode/settings.json
+au/src/all-profiles.jl
+au/src/current-parliamentarians.jl
+au/src/current-sessions.jl
+au/src/current-speeches.jl
+au/src/current-talkers.jl
+au/src/current.jl
+au/src/links.jl
