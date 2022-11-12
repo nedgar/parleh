@@ -189,6 +189,7 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 12303,Baillargeon,Pierre,Harvard University,,Medicine,Master,M.A.,
 14061,Bains,Navdeep Singh,University of Windsor,Windsor,Business Administration,Master,M.A.,
 14061,Bains,Navdeep Singh,York University,Toronto,Administrative Studies,Bachelor,B.A,
+20253,Bains,Parm,Royal Roads University,Victoria,Professiona Communication,Master,M.A.,
 10886,Baird,John,Queen's University,,Political Science,Honours Bachelor,Hons. BA,1992.0
 15678,Baker,George,Memorial Univerisity of Newfoundland,St. John's,Unknown,Unknown,,
 15678,Baker,George,University of New Brunswick,Fredericton,Political Science and Economy,Unknown,,
@@ -570,6 +571,7 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 9264,Boutin,Pierre-André,Laval University,,Education,Bachelor,B.A,
 17909,Boutin-Sweet,Marjolaine,Trent University,Peterborough,Anthropology,Bachelor,B.A,1977.0
 17909,Boutin-Sweet,Marjolaine,University of Alberta,Edmonton,Anthropology,Master,M.A.,1986.0
+2544,Bown,John Young,St. Andrews University,St. Andrews,Medicine,Degree,,
 14404,Boyce,Arthur Cyril,Osgoode Hall Law School,,Laws,Unknown,,
 6525,Boyer,Arthur,University of London (U.K.),,Unknown,Unknown,,
 13582,Boyer,Gustave Benjamin,Laval University,,Unknown,Unknown,,
@@ -650,6 +652,7 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 17899,Brosseau,Ruth Ellen,St. Lawrence College,Kingston,Advertising and Integrated Marketing Communications,Unknown,,
 13999,Brouse,William Henry,McGill University,Montreal,Medicine,Doctorate,Dr,1847.0
 13999,Brouse,William Henry,Victoria College,Cobourg,Arts,Master,M.A.,
+1926,Brousseau,Jean Docile,Séminaire de Québec,Québec,,,,
 13806,Browes,Pauline,York University,Toronto,Arts,Bachelor,B.A,
 6431,Brown,Albert A.,Osgoode Hall Law School,,Laws,Unknown,,
 6431,Brown,Albert A.,University of Toronto,Toronto,Arts,Bachelor,B.A,
@@ -894,6 +897,8 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 6895,Carter,Chesley William,King's University,Windsor,Unknown,Unknown,,
 16123,Cartwright,Richard John,Trinity College,Toronto,Unknown,Unknown,,
 10463,Carvell,Frank Broadstreet,Boston University,Boston,Laws,Bachelor,B.A,1890.0
+219,Casault,Louis Napoléon,Laval University,,Laws,Licentiate,,1865.0
+219,Casault,Louis Napoléon,Séminaire de Québec,,Unknown,Unknown,,
 7226,Casey,George Elliott,University of Toronto,Toronto,Arts,Bachelor,B.A,1871.0
 17892,Casey,Sean,St. Francis Xavier University,Antigonish,Business Administration,Bachelor,B.A,1984.0
 17892,Casey,Sean,Dalhousie University,Halifax,Laws,Bachelor,B.A,1988.0
@@ -931,6 +936,9 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 11089,Chabot,John Léo,University of Ottawa,Ottawa,Arts,Master,M.A.,1896.0
 20158,Chabot,Louise,University of Quebec at Montréal,Montreal,Legal Sciences,Bachelor (Juris),B.A. (Juris),1990.0
 18546,Chagger,Bardish,University of Waterloo,Waterloo,Science,Bachelor,B.A,2004.0
+4530,Chamberlin,Brown,McGill University,Montreal,Civil Law,Bachelor,B.A,1850.0
+4530,Chamberlin,Brown,McGill University,Montreal,Arts,Master,M.A.,1857.0
+4530,Chamberlin,Brown,McGill University,Montreal,Civil Law,Doctorate,Dr,1867.0
 20250,Chambers,Adam,University of Western Ontario,,Laws,Degree,,
 20250,Chambers,Adam,University of Western Ontario,,Business,Degree,,
 7802,Champagne,Andrée,Institut Notre-Dame de Lorette,Saint-Hyacinthe,Literary studies,Diploma,,1955.0
@@ -1563,6 +1571,9 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 17249,Duncan,Linda Francis,University of Alberta,,Laws,Bachelor (Juris),B.A. (Juris),1973.0
 17249,Duncan,Linda Francis,Dalhousie University,Halifax,Laws,Master,M.A.,1998.0
 9486,Duncan,Pat,Carleton University,Ottawa,,Bachelor,B.A,
+10899,Dunkin,Christopher,Glasgow University,,Unknown,Unknown,,
+10899,Dunkin,Christopher,University of London (U.K.),,Unknown,Unknown,,
+10899,Dunkin,Christopher,Harvard University,,Unknown,Unknown,,
 8729,Dupré,Maurice,Laval University,,Laws,Licentiate,LL.L.,
 8729,Dupré,Maurice,University of Oxford,Oxford,Unknown,Unknown,,
 18716,Dupuis,Renée,ÉNA École nationale d'administration,Paris,Administration,Master,M.A.,
@@ -1728,6 +1739,7 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 3237,Fiset,Eugène,Laval University,,Arts,Bachelor,B.A,
 3237,Fiset,Eugène,Laval University,,Medicine,Doctor of medicine,M.D.,
 2271,Fiset,Jean-Baptiste Romuald,Laval University,Laval,Medicine,Doctor of medicine,M.D.,1868.0
+10842,Fisher,Charles,King's College,Windsor,Arts,Bachelor,B.A,1830.0
 10131,Fisher,Douglas Glenn,Windsor University,,Unknown,Unknown,,
 10131,Fisher,Douglas Glenn,York University,Toronto,Unknown,Unknown,,
 16337,Fisher,Douglas Mason,University of Toronto,Toronto,Arts,Bachelor,B.A,1949.0
@@ -2258,6 +2270,8 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 12513,Harris,Walter Edward,Osgoode Hall Law School,,Civil Law,Bachelor,B.A,1926.0
 15718,Harrison,Jeremy,University of Alberta,,Political Science and History,Degree,,2001.0
 15718,Harrison,Jeremy,University of Saskatchewan,Saskatoon,Laws,Bachelor,B.A,2004.0
+364,Harrison,Robert Alexander,Trinity College,Toronto,Civil Law,Doctorate,Dr,
+364,Harrison,Robert Alexander,Upper Canada College,Toronto,Civil Law,Bachelor,B.A,
 16771,Hart,James (Jim) Alexander,Pacific Western University,,International Relations,Bachelor,B.A,1997.0
 9793,Hartigan,David James,Dalhousie University,Halifax,Medicine,Degree,,
 18706,Hartling,Nancy,St. Francis Xavier University,Antigonish,Adult Education,Master,M.A.,1996.0
@@ -3132,6 +3146,7 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 7630,Lusby,Azel Randolph,Dalhousie University,Halifax,Laws,Bachelor,B.A,1931.0
 7274,Lussier,Marcel,Sherbrooke University,Sherbrooke,Science,Bachelor,B.A,1968.0
 7274,Lussier,Marcel,Montreal University,Montreal,Science,Master,M.A.,1971.0
+9862,Lynch,James S.,University of Toronto,Toronto,Medicine,Doctor of medicine,,
 6547,Lynch-Staunton,George,Upper Canada College,Toronto,Unknown,Unknown,,
 6547,Lynch-Staunton,George,Sainte-Marie College,Montreal,Unknown,Unknown,,
 4329,Lynch-Staunton,John,Georgetown University,,Science,Bachelor,B.A,1953.0
@@ -3455,6 +3470,7 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 14875,Massey,Denton,Yale University,,Unknown,Unknown,,
 11846,Massicotte,Paul J.,University of Manitoba,Winnipeg,Commerce,Bachelor,B.A,1974.0
 4984,Masson,Louis-François-Rodrigue,Séminaire de Saint-Hyacinthe,,Unknown,Unknown,,
+10517,Masson,Luc Hyacinthe,Séminaire de Montréal,,Medicine,Doctor of medicine,,
 14347,Massue,Joseph-Aimé,Montreal College,Montreal,Unknown,Unknown,,
 10691,Massé,Arthur,Collège Sainte-Anne-de-la-Pocatière,,Unknown,Unknown,,
 10691,Massé,Arthur,Laval University,,Arts,Bachelor,B.A,
@@ -3573,6 +3589,7 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 11878,McDougall,William,Victoria College,Cobourg,Unknown,Unknown,,
 2357,McGarry,Moses Elijah,Dalhousie University,Halifax,Medicine,Doctor of medicine,,1908.0
 8132,McGee,Frank Charles,Collegiate studies,,Unknown,Unknown,,
+12966,McGee,Thomas D'Arcy,McGill University,Montreal,Civil Law,Bachelor,B.A,
 14751,McGeer,Gerald Grattan,Dalhousie University,Halifax,Unknown,Unknown,,
 6756,McGibbon,James Wright,McGill University,Montreal,Unknown,Unknown,,
 7182,McGibbon,Peter,University of Toronto,Toronto,Unknown,Bachelor,B.A,
@@ -3891,6 +3908,11 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 18543,Morneau,Bill,Université de Grenoble,,Unknown,Unknown,,
 18543,Morneau,Bill,London School of Economics and Political Science,London,Economics,Master,M.A.,
 3500,Morphy,Hugh Boulton,Osgoode Hall Law School,,Laws,Bachelor,B.A,
+10200,Morris,Alexander,McGill University,Montreal,Arts,Diploma,,1849.0
+10200,Morris,Alexander,McGill University,Montreal,Civil Law,Licentiate,,1850.0
+10200,Morris,Alexander,McGill University,Montreal,Literary studies,Master,M.A.,1852.0
+10200,Morris,Alexander,McGill University,Montreal,Civil Law,Doctorate,Dr,1862.0
+10200,Morris,Alexander,Glasgow University,,Unknown,Unknown,,
 12210,Morris,Edmund Leverett,Dalhousie University,Halifax,Arts,Bachelor,B.A,1942.0
 9883,Morrison,Angus,Upper Canada College,Toronto,Unknown,Unknown,,
 4341,Morrison,Aulay MacAulay,Dalhousie University,Halifax,Laws,Bachelor,B.A,
@@ -4141,6 +4163,8 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 6774,Orton,George Turner,St. Andrews University,St. Andrews,Medicine,Doctor of medicine,,1860.0
 6774,Orton,George Turner,College of Physicians and Surgeons,Dublin,Medicine,Unknown,,
 16741,Osler,Edmund Boyd,Royal Military College of Canada,,Unknown,Unknown,,
+20281,Osler,F. Gigi,University of Manitoba,Winnipeg,Medicine,Degree,,1992.0
+20281,Osler,F. Gigi,University of British Columbia,Vancouver,Surgery,Certificate,,
 6624,Ostiguy,Marcel,Montreal School of Higher Commercial Studies,Montreal,Administration,Unknown,,1949.0
 6624,Ostiguy,Marcel,Laval University,,Administration,Diploma,,1970.0
 13043,Ottenheimer,Gerald R.,University of Cambridge,Cambridge,Unknown,Unknown,,
@@ -4202,6 +4226,8 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 14352,Parent,Gilbert,Niagara University,,Arts,Master,M.A.,
 14352,Parent,Gilbert,New York University,,Education,Master,M.A.,
 14352,Parent,Gilbert,St. Joseph College,,Science,Bachelor,B.A,
+15438,Parker,Thomas Sutherland,Victoria College,Cobourg,Unknown,Unknown,,
+15438,Parker,Thomas Sutherland,Jefferson Medical College,Philadelphia,Medicine,Unknown,,
 5986,Parrish,Carolyn,University of Toronto,Toronto,Arts,Bachelor,B.A,1969.0
 5986,Parrish,Carolyn,"Ontario College of Education, University of Toronto",Toronto,Education,Bachelor,B.A,1970.0
 8339,Parry,John Edmund,University of Western Ontario,London,Business Administration,Master,M.A.,1974.0
@@ -4681,6 +4707,7 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 5643,Rooney,Richard David (Dave),Memorial Univerisity of Newfoundland,St. John's,Unknown,Unknown,,
 5186,Roscoe,Francis James,University of London,London,Arts,Bachelor,B.A,
 5186,Roscoe,Francis James,"University College, University of London",,Unknown,Unknown,,
+2548,Rose,John,King's College,Windsor,Unknown,Unknown,,
 7910,Rose,Mark Willson,University of Washington,,Education,Master,M.A.,
 7910,Rose,Mark Willson,University of British Columbia,,Agriculture,Bachelor,B.A,
 5266,Ross,Arthur Edward,University of Edinburgh,,Medicine,Doctorate,Dr,
@@ -4787,6 +4814,9 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 14010,Sams,Joseph Reed,McMaster University,Hamilton,Unknown,Unknown,,
 18475,Samson,Darrell,University of Moncton,Edmundston,School Administration,Master,M.A.,
 18475,Samson,Darrell,University of Moncton,Edmundston,Education,Bachelor,B.A,
+11162,Sanborn,John Sewell,Dartmouth College,Hanover,Arts,Diploma,,1842.0
+11162,Sanborn,John Sewell,Dartmouth College,Hanover,Arts,Master,M.A.,1845.0
+11162,Sanborn,John Sewell,Dartmouth College,Hanover,Laws,Doctorate,Dr,1874.0
 13460,Sanderson,Frederick George,Ontario College of Pharmacy,,Unknown,Unknown,,
 17854,Sandhu,Jasbir,Simon Fraser University,,Arts,Bachelor,B.A,
 17854,Sandhu,Jasbir,Royal Roads University,Victoria,Business Administration,Master,M.A.,
@@ -4904,6 +4934,7 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 4563,Shipley,Bev,Centralia College of Agricultural Technology,,Agricultural Technology,Diploma,,
 17246,Shory,Devinder,Punjabi University,,Laws,Bachelor,LL.B.,1980.0
 17246,Shory,Devinder,Punjabi University,,Unknown,Bachelor,B.A,
+17235,Shugart,Ian,University of Toronto,Toronto,Political Economy,Bachelor,,
 13658,Shymko,Yuri Roman,University of Toronto,Toronto,History,Bachelor,B.A,
 13658,Shymko,Yuri Roman,Loyola University,Chicago,Unknown,Unknown,,
 916,Sibbeston,Nick G.,University of Alberta,,Arts,Bachelor,B.A,
@@ -5051,6 +5082,7 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 5896,Spivak,Mira,University of Manitoba,Winnipeg,Arts,Bachelor,B.A,
 15036,Spohn,Philip Howard,University of Victoria,Victoria,Medicine,Doctor of medicine,,
 10756,Springer,Lewis,Victoria College,Cobourg,Unknown,Unknown,,
+14030,Sproat,Alexander,Queen's University,,Arts,Bachelor,B.A,
 5656,Sproule,Thomas Simpson,University of Victoria,Victoria,Medicine,Doctor of medicine,,1868.0
 5656,Sproule,Thomas Simpson,University of Michigan,,Unknown,Unknown,,
 1470,St-Cyr,Thierry,Sherbrooke University,Sherbrooke,Computer Engineering,Bachelor,B.A,2001.0
@@ -5249,6 +5281,8 @@ PersonId,LastName,UsedFirstName,SchoolNameLongEn,SchoolCityEn,FieldOfStudyEn,Dip
 1898,Tessier,Claude,Sherbrooke University,Sherbrooke,School Administration,Master,M.A.,
 5341,Tessier,Jules,Laval University,,Laws,Bachelor,B.A,
 5341,Tessier,Jules,Sainte-Marie College,Montreal,Unknown,Unknown,,
+11324,Tessier,Ulric Joseph,Séminaire de Québec,,Unknown,Unknown,,1935.0
+11324,Tessier,Ulric Joseph,Laval University,,Laws,Doctorate,Dr,1955.0
 6885,Thacker,Blaine Allen,University of Alberta,,Agriculture,Bachelor,B.A,1964.0
 6885,Thacker,Blaine Allen,University of Alberta,,Laws,Bachelor,B.A,1968.0
 9870,Thalheimer,Peter,University of Ottawa,Ottawa,Laws,Bachelor,B.A,

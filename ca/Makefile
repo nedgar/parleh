@@ -1,4 +1,4 @@
-all: download-parliaments data/parliaments/all_parliaments.csv download-profiles role-csvs
+all: download-parliaments data/parliaments/all_parliaments.csv download-profiles zips role-csvs
 
 data-directories:
 	mkdir -p data/parliaments data/people

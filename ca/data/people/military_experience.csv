@@ -58,6 +58,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 108145,8218,Asselin,Edmund Tobin,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,Prisoner of war in a German camp.,True,482,Participant,,Military
 146494,8842,Asselin,Joseph Patrick Tobin,,False,,False,False,False,1545,Canadian Army Reserve Force,,,13,Military,True,False,,0,,0,0,0,0,False,False,For 12 years,True,304,Captain,,Military
 140287,13267,Atamanenko,Alex,,False,,False,False,False,7418,Royal Canadian Navy,,R.C.N.,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1531,Officer,,Military
+146860,5290,Ault,Samuel,,False,,False,False,False,10777,2nd Battalion Stormont Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,204,Lieutenant,,Military
 147359,1109,Aylmer,Henry,1876-01-01,True,1887-11-01,True,False,False,10780,Richmond Field Battery,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 147364,1109,Aylmer,Henry,1877-01-01,True,1877-01-01,True,False,False,10781,Canadian Wimbledon Rifle Team,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,791,Commander,,Military
 147352,1109,Aylmer,Henry,,False,,False,False,False,2972,"Fenian Raids,1866-1871",,1866-1871,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
@@ -100,6 +101,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 68818,17013,Baxter,John Babington Macaulay,1907-01-01,True,1912-01-01,True,False,False,7400,"Royal Canadian Artillery, 3rd Regiment",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 101822,2446,Beattie,Thomas,,False,,False,False,False,327,7th Fusiliers of London,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,213,Major,,Military
 21592,2446,Beattie,Thomas,,False,,False,False,False,5989,"North West Rebellion, 1885",,1885,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
+96569,1799,Beaubien,Joseph-Octave,,False,,False,False,False,283,"61st Battalion, Montmagny and L'Islet Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 46471,4396,Beaubien,Louis-Philippe,1940-01-01,True,1945-01-01,True,False,False,7394,Royal Canadian Army Pay Corps,,R.C.A.P.C.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,213,Major,,Military
 83402,5230,Beaubier,David Wilson,1916-01-01,True,,False,False,False,63,181st Battalion,,,13,Military,True,False,,0,,0,0,0,0,False,False,Raised and took the battalion to England in 1916.,True,206,Lieutenant-Colonel,,Military
 70017,5230,Beaubier,David Wilson,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
@@ -144,6 +146,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 88420,3629,Black,George,1916-01-01,True,1919-01-01,True,False,False,10180,Yukon Infantry Company,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served overseas in France and was wounded.,False,304,Captain,,Military
 140165,3629,Black,George,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 38615,14065,Blaikie,William Alexander (Bill),1967-01-01,True,1972-01-01,True,False,False,6987,Queen's Own Cameron Highlanders of Canada (Militia),,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
+17510,12380,Blair,Adam Johnston Fergusson,1842-01-01,True,,False,False,False,240,"4th Battalion, Wellington Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 13288,6394,Blair,Duncan Gordon,,False,1945-01-01,True,False,False,3999,Irish Regiment of Canada,,,13,Military,True,False,,0,,0,0,0,0,False,False,"Served in the Italian campaign. Was gravely wounded, 1944. Retired with the rank of captain, 1945. Served as Grand President, The Royal Canadian Legion, 1994-1998.",False,204,Lieutenant,,Military
 25173,6394,Blair,Duncan Gordon,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 55063,14215,Blair,William Gourlay,1916-01-01,True,1919-01-01,True,False,False,1543,Canadian Army Medical Corps,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
@@ -182,6 +185,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 155819,15531,Borden,Robert Laird,,False,,False,False,False,10842,63rd Regiment of Halifax,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1651,Honorary Colonel,,Military
 155820,15531,Borden,Robert Laird,,False,,False,False,False,10843,"85th Battalion Nova Scotia Highlanders, Canadian Expeditionary Force",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1651,Honorary Colonel,,Military
 17389,1408,Borrie,Robert James,1945-01-01,True,1945-01-01,True,False,False,1536,Canadian Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,1225,Corporal,,Military
+34064,16152,Bossé,Joseph-Noël,1863-01-01,True,1869-01-01,True,False,False,234,4th Battalion of Quebec Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 57680,8241,Botsford,Amos Edwin,1823-01-01,True,1867-01-01,True,False,False,168,"2nd Battalion, Westmorland Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 155840,8560,Boucher de Boucherville,Charles Eugène,,False,,False,False,False,84,"1st Battalion, Chambly Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
 266888,18597,Boudrias,Michel,,False,,False,False,False,7375,Royal 22e Régiment,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served in Afghanistan.,True,1660,Infantry Officer,,Military
@@ -288,6 +292,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 38318,1538,Cardin,Louis-Joseph-Lucien,1941-01-01,True,1945-01-01,True,False,False,7418,Royal Canadian Navy,,R.C.N.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,210,Lieutenant-Commander,,Military
 113387,5248,Carignan,Jean Guy,1957-01-01,True,1961-01-01,True,False,False,7399,Royal Canadian Artillery (Reserve),,R.C.A. (Reserve),13,Military,True,False,,0,,0,0,0,0,False,False,,False,567,Reservist,0.0,Military
 160894,9604,Carmichael,James William,,False,,False,False,False,10887,"5th Regiment, Pictou County Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
+56356,2009,Caron,George,,False,,False,False,False,5175,Maskinongé Reserve Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 108644,7287,Caron,Jean-Baptiste Thomas,1914-01-01,True,1918-01-01,True,False,False,7375,Royal 22e Régiment,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served overseas.,False,304,Captain,,Military
 261391,7287,Caron,Jean-Baptiste Thomas,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 25621,7370,Carpenter,Franklin Metcalfe,1872-01-01,True,1897-01-01,True,False,False,317,"77th Wentworth Battalion, Volunteer Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,213,Major,,Military
@@ -304,6 +309,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 76064,6895,Carter,Chesley William,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 129079,5818,Cartier,George-Étienne,1837-09-01,True,1838-01-01,True,False,False,10406,Fils de la liberté,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served during the Rebellion of 1837. Partook in the Battle of Saint-Denis in November 1837.,False,847,Military,,Military
 35452,10463,Carvell,Frank Broadstreet,,True,1906-01-01,True,False,False,19,"10th Woodstock Field Artillery, Royal Canadian Artillery",,,13,Military,True,False,,0,,0,0,0,0,False,False,Served for many years with this unit as Captain and Major.,False,213,Major,,Military
+172727,219,Casault,Louis Napoléon,,False,,False,False,False,5317,Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
 14197,17081,Case,Wilfrid Garfield,1917-01-01,True,1919-01-01,True,False,False,7425,Royal Flying Corps,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
 47813,7226,Casey,George Elliott,,False,,False,False,False,145,"25th Elgin Battalion, Volunteer Infantry",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
 172911,6157,Casgrain,Charles Eusèbe,1861-01-01,True,1864-01-01,True,False,False,2972,"Fenian Raids,1866-1871",,1866-1871,24,War,True,False,,0,,0,0,0,0,False,False,,False,691,Surgeon,,Military
@@ -326,6 +332,8 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 174855,11089,Chabot,John Léo,,False,,False,False,False,10935,5th Louise Dragoon Guards,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 118309,11089,Chabot,John Léo,,False,,False,False,False,6262,Ottawa General Military Base Hospital,,,13,Military,True,False,,0,,0,0,0,0,False,False,Commanded Ottawa General Military Base Hospital during World War I.,True,791,Commander,,Military
 174857,8468,Chaffers,William Henry,,False,,False,False,False,10839,Volunteer Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
+74877,4530,Chamberlin,Brown,,False,,False,False,False,2972,"Fenian Raids,1866-1871",,1866-1871,24,War,True,False,,0,,0,0,0,0,False,False,"Served at Eccles Hill, May, 1870.",True,482,Participant,,Military
+91614,4530,Chamberlin,Brown,,False,,False,False,False,282,60th Missisquoi Battalion of Infantry,,,13,Military,True,False,,0,,0,0,0,0,False,False,"Created C.M.G. Sept. 15, 1870, for distinguished services during the Fenian Raids.",True,787,Colonel,,Military
 33090,14133,Chambers,Alan,1940-01-01,True,,False,False,False,1536,Canadian Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,204,Lieutenant,,Military
 23013,14133,Chambers,Alan,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 89329,11335,Chambers,Egan,,False,1958-05-01,True,False,False,10936,3rd Bn. Black Watch Regiment (R.H.R.),,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,213,Major,,Military
@@ -386,6 +394,10 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 84148,17070,Coulombe,Charles Jérémie,1882-01-01,True,1902-01-01,True,False,False,333,86th Trois-Rivières Regiment of Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,215,Major and Paymaster,,Military
 7155,6595,Coursol,Michel Charles Joseph,1861-01-01,True,1862-01-01,True,False,False,1871,Chasseurs Canadiens Regiment,,,13,Military,True,False,,0,,0,0,0,0,False,False,"Raised the regiment during the Trent Affair, 1861.",False,206,Lieutenant-Colonel,,Military
 82068,6629,Cowan,Walter Davy,,False,,False,False,False,1540,Canadian Army Dental Corps,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,213,Major,,Military
+22262,13442,Crawford,George,1846-01-01,True,1847-01-01,True,False,False,200,"3rd Battalion, Leeds Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,Served during the Rebellion of 1837.,False,206,Lieutenant-Colonel,,Military
+4411,2330,Crawford,James,1866-01-01,True,1871-01-01,True,False,False,216,41st Brockville Battalion of Rifles,,,13,Military,True,False,,0,,0,0,0,0,False,False,Organized this battalion,False,206,Lieutenant-Colonel,,Military
+179072,2330,Crawford,James,,False,,False,False,False,2972,"Fenian Raids,1866-1871",,1866-1871,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
+81716,2330,Crawford,James,,False,,False,False,False,3841,Incorporated Militia of Upper Canada,,,13,Military,True,False,,0,,0,0,0,0,False,False,"Served for several years in this unit.Served at Cornwall, Ontario, during the Rebellion of 1837.",True,847,Military,,Military
 103383,14673,Crawford,John,1885-01-01,True,1885-01-01,True,False,False,345,91st Battalion,,,13,Military,True,False,,0,,0,0,0,0,False,False,Organized a volunteer company.,False,304,Captain,,Military
 27222,14673,Crawford,John,,False,,False,False,False,5989,"North West Rebellion, 1885",,1885,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 13121,12199,Crawford,John Willoughby,1861-01-01,True,1863-01-01,True,False,False,268,"5th Battalion, Toronto Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
@@ -400,6 +412,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 87458,12455,Crouse,Lloyd Roseville,,False,,False,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,True,892,Pilot,,Military
 179144,5595,Cruickshank,George Alexander,,False,,False,False,False,152,"29th Battalion, Canadian Expeditionary Force",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
 179145,5595,Cruickshank,George Alexander,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
+52801,6336,Cumberland,Frederick William,,False,,False,False,False,18,10th Royals Volunteer Battalion of Infantry,,,13,Military,True,False,,0,,0,0,0,0,False,False,"Served during the Trent Affair, 1861.Aide de Camp to Lord Monck, Oct. 2, 1868-Nov.13, 1868.",True,792,Commanding Officer,,Military
 100469,13361,Cummins,John Martin,1958-01-01,True,1961-01-01,True,False,False,7166,Reserve Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,567,Reservist,0.0,Military
 26765,13361,Cummins,John Martin,1958-01-01,True,1961-01-01,True,False,False,4965,The Lorne Scots,,,13,Military,True,False,,0,,0,0,0,0,False,False,Peel Halton and Dufferin Counties Regiment,False,567,Reservist,0.0,Military
 77992,8108,Cunnington,Douglas George Leopold,1915-01-01,True,1918-01-01,True,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,Served overseas. Wounded and prisoner of war.<BR>Awarded Military Cross,False,482,Participant,,Military
@@ -450,6 +463,8 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 15008,15350,Deachman,Grant,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 92885,15350,Deachman,Grant,,False,,False,False,False,7396,Royal Canadian Artillery,,R.C.A.,13,Military,True,False,,0,,0,0,0,0,False,False,,True,847,Military,,Military
 40313,16367,Deakon,Walter Cyril,1943-01-01,True,1945-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
+180271,15545,Delorme,Pierre,1871-01-01,True,1871-01-01,True,False,False,10839,Volunteer Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
+180270,15545,Delorme,Pierre,,False,,False,False,False,2972,"Fenian Raids,1866-1871",,1866-1871,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 79153,6281,Denis,Azellus,,False,,False,False,False,155,2nd Battalion (Reserve) Châteauguay Regiment,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,567,Reservist,0.0,Military
 42189,13435,Deniset,Louis,1954-01-01,True,1957-01-01,True,False,False,9998,Winnipeg Grenadiers,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 109446,13435,Deniset,Louis,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
@@ -518,6 +533,9 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 47614,8581,Drury,Charles Mills (Bud),1945-09-25,False,1970-12-31,False,False,False,1538,Canadian Army (Supplementary Reserve),,.A.F. (Supplementary Rese,13,Military,True,False,,0,,0,0,0,0,False,False,Placed on the Supplementary Reserve.Honours and Decorations:-Commander of the Order of the British Empire-Distinguished Service Order-1939-45 Star-France and Germany Star-Defence Medal-Canadian Volunteer Service Medal with clasp-Mentioned in despatches-Canadian Efficiency Decoration-Chevalier de la Légion d'Honneur (French) -Croix de Guerre avec palme (French),False,74,Brigadier-General,,Military
 38856,8581,Drury,Charles Mills (Bud),,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 61560,13578,Dubuc,Joseph,1871-01-01,True,1874-01-01,True,False,False,8170,St-Boniface Rifle Company,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
+109589,829,Duchesnay,Antoine Juchereau,,False,,False,False,False,235,4th Battalion Portneuf Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
+35373,5226,Duchesnay,Henri Elzéar Juchereau,1845-01-01,True,1869-01-01,True,False,False,237,"4th Battalion, Dorchester Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
+87849,5226,Duchesnay,Henri Elzéar Juchereau,1855-01-01,True,1869-01-01,True,False,False,5889,No. 3 Military District,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 29699,844,Duchesnay,Henri Jules Juchereau,1880-01-01,True,1887-01-01,True,False,False,137,23rd Beauce Battalion of Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 101976,11608,Duclos,Louis,,False,,False,False,False,312,"713rd Communications Regiment, Beauport Quebec",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 211319,9889,Duffus,Joseph James,,False,,False,False,False,11122,3rd Prince of Wales Canadian Dragoons,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,787,Colonel,,Military
@@ -527,6 +545,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 49455,16330,Dumas,Armand,1940-01-01,True,1944-01-01,True,False,False,211,3rd Reserve Battalion of Engineers,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,1531,Officer,,Military
 72926,4680,Dumont,Joseph,1869-01-01,True,,False,False,False,6340,Papal Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served with the rank of Corporal.,True,895,Papal Zouaves,,Military
 83151,15270,Dumouchel,Léandre,1847-01-01,True,1869-01-01,True,False,False,167,"2nd Battalion, Two Mountains Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
+112657,10899,Dunkin,Christopher,,False,,False,False,False,5316,Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1531,Officer,,Military
 442,9642,Dupras,Maurice,1942-01-01,True,1945-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 140030,9642,Dupras,Maurice,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 122878,13425,Edmonston,Philip,1961-01-01,True,1964-01-01,True,False,False,9450,United States Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served&nbsp;in Panama&nbsp;in the U.S. Army infantry&nbsp;attached to the 508th Airborne Division,False,1967,Medic,,Military
@@ -565,6 +584,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 1600,568,Ferguson,Julian Harcourt,1914-08-04,False,1918-01-01,True,False,False,1570,Canadian Expeditionary Force,,C.E.F.,13,Military,True,False,,0,,0,0,0,0,False,False,Served overseas and received the Military Cross.,False,524,Private,,Military
 19778,568,Ferguson,Julian Harcourt,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,1531,Officer,,Military
 79283,8483,Ferguson,Lieut. Col. John,,False,,False,False,False,87,"1st Battalion, Gloucester County Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
+3310,7999,Ferguson,Thomas Roberts,1869-01-01,True,1873-01-01,True,False,False,194,"35th Simcoe Foresters Battalion, Volunteer Infantry",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,213,Major,,Military
 103154,16118,Ferrie,Gladstone Mansfield,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 89553,16118,Ferrie,Gladstone Mansfield,,False,,False,False,False,1568,Canadian Engineers,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,847,Military,,Military
 111669,4296,Ferrier,James,1847-01-01,True,,False,False,False,78,1st Battalion of the Montreal Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
@@ -678,6 +698,8 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 76012,15620,Graham,Roy Theodore,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 224150,8757,Graham,Stan,1942-01-01,True,1952-01-01,True,False,False,1204,British Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 66276,14023,Gray,Herbert Eser (Herb),2004-01-01,True,,False,False,False,129,21st (Windsor) Service Battalion,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1651,Honorary Colonel,,Military
+224825,14529,Gray,John Hamilton,1840-05-25,False,1850-01-01,True,False,False,5754,"New Brunswick Regiment, Canadian Artillery",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
+9616,14529,Gray,John Hamilton,1850-01-02,True,,False,False,False,6985,Queen's New Brunswick Rangers,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,209,Lieutenant-Colonel C.O.,,Military
 26247,1862,Gray,Ross Wilfred,1916-01-01,True,1919-01-01,True,False,False,1571,Canadian Field Artillery,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
 95830,13419,Green,Howard Charles,1915-01-01,True,1918-01-01,True,False,False,254,54th Kootenay Battalion,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
 66687,13419,Green,Howard Charles,1918-01-01,True,1919-01-01,True,False,False,1634,"Canadian Section, General Headquarters, France",,,13,Military,True,False,,0,,0,0,0,0,False,False,During World War I.,False,304,Captain,,Military
@@ -744,6 +766,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 79356,14932,Hazen,Douglas King,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 75601,9785,Hazen,John Douglas,1898-01-01,True,,False,False,False,209,"3rd New Brunswick Regiment, Artillery",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1172,Paymaster,,Military
 36341,5262,Heap,Daniel James Macdonnell,1941-01-01,True,1946-01-01,True,False,False,7408,Royal Canadian Infantry Corps,,R.C.I.C.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
+34187,13210,Heath,Edmund,1862-01-01,True,1869-01-01,True,False,False,79,1st Battalion Pontiac Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,213,Major,,Military
 80145,10352,Hees,George Harris,1941-01-01,True,1944-01-01,True,False,False,274,5th Infantry Brigade,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,69,Brigade Major,,Military
 118651,10352,Hees,George Harris,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 30835,1433,Hellyer,Paul Theodore,,False,,False,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,"Served with the R.C.A.F. and Royal Canadian Artillery, 1944-1946.",True,226,Member,300.0,Committee|ElectionProcessCloseDissolution
@@ -778,12 +801,18 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 16629,14117,Hollett,Malcolm Mercer,1915-01-01,True,1917-11-01,True,False,False,7439,Royal Newfoundland Regiment,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 65562,14117,Hollett,Malcolm Mercer,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 68705,7836,Hollingworth,Allan Henry,1942-01-01,True,1945-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,645,Sergeant,,Military
+37510,13564,Holmes,John,1866-01-01,True,1875-01-01,True,False,False,221,"43rd Carleton Battalion, Volunteer Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
 55693,14477,Holowach,Ambrose A.,,False,,False,False,False,7423,Royal Canadian Signal Corps,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served during the Second World War.,True,847,Military,,Military
 13197,10883,Holton,Luther Hamilton,,False,,False,False,False,5316,Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1531,Officer,,Military
 33319,11058,Honey,Russell Clayton,1940-01-01,True,1944-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,482,Participant,,Military
 87274,14470,Hooper,Edmund John Glyn,1837-01-01,True,1838-01-01,True,False,False,7443,Royal Quebec Volunteer Artillery,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served during the Rebellion.,False,204,Lieutenant,,Military
 36159,14470,Hooper,Edmund John Glyn,1866-01-01,True,1881-01-01,True,False,False,5605,Napanee Battalion of Garrison Artillery,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
 101940,43,Hosking,Henry Alfred,1939-01-01,True,1945-01-01,True,False,False,1536,Canadian Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
+71181,9869,Houghton,Charles Frederick,1856-01-01,True,1858-01-01,True,False,False,256,57th (the West Middlesex) Regiment of Foot,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
+35607,9869,Houghton,Charles Frederick,1858-01-01,True,1863-01-01,True,False,False,123,20th (the East Devonshire) Regiment of Foot,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
+6340,9869,Houghton,Charles Frederick,1873-01-01,True,,False,False,False,1209,British Columbia Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,207,Lieutenant-Colonel and Deputy Adjutant General,,Military
+31113,9869,Houghton,Charles Frederick,1881-01-01,True,,False,False,False,5086,Manitoba Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,207,Lieutenant-Colonel and Deputy Adjutant General,,Military
+46463,9869,Houghton,Charles Frederick,1888-01-01,True,1896-01-01,True,False,False,6951,Quebec Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,207,Lieutenant-Colonel and Deputy Adjutant General,,Military
 79224,14733,Howard,Bruce Andrew Thomas,1945-01-01,True,1946-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,1011,Flying Officer,,Military
 107958,3739,Howe,William Dean,1942-01-01,True,1945-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,224,Medical Officer,,Military
 68314,3739,Howe,William Dean,1942-01-01,True,1945-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,1007,Flight Lieutenant,,Military
@@ -803,6 +832,8 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 58545,8569,Huntington,Arthur Ronald,1942-01-01,True,1945-01-01,True,False,False,7417,Royal Canadian Naval Volunteer Reserve,,R.C.N.V.R.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
 113053,8569,Huntington,Arthur Ronald,,False,,False,False,False,7419,Royal Canadian Navy (Reserve),,R.C.N. (Reserve),13,Military,True,False,,0,,0,0,0,0,False,False,,True,210,Lieutenant-Commander,,Military
 86495,8569,Huntington,Arthur Ronald,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
+134815,17048,Hutchison,Richard,1839-01-01,True,,False,False,False,10497,"1st Battalion, Northumberland Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
+38092,17048,Hutchison,Richard,1865-01-01,True,,False,False,False,239,"4th Battalion, Northumberland Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,209,Lieutenant-Colonel C.O.,,Military
 109400,12115,Irvine,William,,False,,False,False,False,3295,Gordon Highlanders (Volunteer Militia),,,13,Military,True,False,,0,,0,0,0,0,False,False,Served for 2 years.,True,847,Military,,Military
 17228,12115,Irvine,William,,False,,False,False,False,7656,Saskatchewan Rifles (Volunteer Militia),,,13,Military,True,False,,0,,0,0,0,0,False,False,Served for 2 years.,True,847,Military,,Military
 112626,8443,Irwin,Thomas James,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
@@ -824,6 +855,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 12657,16600,Jessiman,Duncan James,1942-01-01,True,1945-01-01,True,False,False,7418,Royal Canadian Navy,,R.C.N.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
 239027,16600,Jessiman,Duncan James,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 239028,16600,Jessiman,Duncan James,,False,,False,False,False,11199,29th Canadian Motor Torpedo Boat Flotilla,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,2430,Midshipman,,Military
+134822,12428,Johnson,John Mercer,1842-01-01,True,1864-01-01,True,False,False,10498,1st Battalion of New Brunswick Rifle Company,,,13,Military,True,False,,0,,0,0,0,0,False,False,Known as the Chatham Rifles,False,304,Captain,,Military
 88067,10726,Johnson,Willis Merwyn (Merv),1944-01-01,True,1945-01-01,True,False,False,7408,Royal Canadian Infantry Corps,,R.C.I.C.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
 5266,9229,Johnston,Thomas George,1866-01-01,True,1866-01-01,True,False,False,2972,"Fenian Raids,1866-1871",,1866-1871,24,War,True,False,,0,,0,0,0,0,False,False,,False,482,Participant,,Military
 98070,9229,Johnston,Thomas George,1866-01-01,True,1866-01-01,True,False,False,5316,Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
@@ -865,6 +897,9 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 63791,16895,Kidd,Thomas Ashmore,1915-02-01,True,1915-01-01,True,False,False,165,"2nd Battalion, Royal Regiment of Canada (Reserve)",,,13,Military,True,False,,0,,0,0,0,0,False,False,Served overseas in France.,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 261407,16895,Kidd,Thomas Ashmore,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 6574,4479,Kierans,Eric William,1942-01-01,True,1945-01-01,True,False,False,158,2nd Battalion Victoria Rifles of Canada,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
+86911,9696,Kierzkowski,Alexandre Edouard,1831-01-01,True,1831-01-01,True,False,False,6603,Polish Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served against Russia.,False,847,Military,,Military
+55202,9696,Kierzkowski,Alexandre Edouard,,False,,False,False,False,157,2nd Battalion St-Hyacinthe Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
+103127,9696,Kierzkowski,Alexandre Edouard,,False,,False,False,False,5308,"Military District No. 5, Lower Canada",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1363,Assistant Quartermaster General,,Military
 247834,3724,Kindt,Lawrence Elliott,,False,,False,False,False,1544,Canadian Armed Forces Reserves,,,13,Military,True,False,,0,,0,0,0,0,False,False,For 2 years.,True,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 247835,3724,Kindt,Lawrence Elliott,,False,,False,False,False,1622,Canadian Officers' Training Corps,,C.O.T.C.,13,Military,True,False,,0,,0,0,0,0,False,False,,True,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 73799,2276,King,Frederick John,1942-01-01,True,1946-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,"Served in Canada, southeast Asia (India/Burma), and post-war Europe.Returned to Canada, 1946.",False,847,Military,,Military
@@ -1066,6 +1101,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 254770,1395,Maddin,James William,,False,,False,False,False,1536,Canadian Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,213,Major,,Military
 254771,1395,Maddin,James William,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,847,Military,,Military
 52423,5734,Madill,John Ellwood,1942-01-01,True,1945-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,1011,Flying Officer,,Military
+254961,3209,Magill,Charles,,False,,False,False,False,5316,Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 12056,16438,Major,Robert Benoit,1942-01-01,True,1945-01-01,True,False,False,6952,Quebec Regiment,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
 56622,16438,Major,Robert Benoit,1942-01-01,True,1945-01-01,True,False,False,3171,Fusiliers Mont-Royal,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
 255033,8727,Malhiot,Charles-Christophe,1833-01-01,True,,False,False,False,11250,"3th Battalion, St-Maurice Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,691,Surgeon,,Military
@@ -1105,6 +1141,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 255540,7122,Masson,James,1866-01-01,True,1866-01-01,True,False,False,11259,"15th Battalion, Volunteer Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
 255541,4984,Masson,Louis-François-Rodrigue,1862-01-01,True,1862-01-01,True,False,False,1612,Canadian Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,1531,Officer,,Military
 35623,4984,Masson,Louis-François-Rodrigue,1863-01-01,True,1868-01-01,True,False,False,337,8th Military District of Lower Canada,,,13,Military,True,False,,0,,0,0,0,0,False,False,Named Lieutenant-Colonel in 1867.,False,69,Brigade Major,,Military
+24484,10517,Masson,Luc Hyacinthe,,False,,False,False,False,249,"4th Regiment, Huntingdon Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 255545,7850,Massue,Louis Huet,,False,,False,False,False,11260,Varennes Infantry Voluntary Company,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,790,Commandant,,Military
 76602,4042,Massé,Paul-André,1967-01-01,True,1968-01-31,False,False,False,1536,Canadian Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
 74731,4042,Massé,Paul-André,1968-02-01,False,1973-01-01,True,False,False,1585,Canadian Forces (Army),,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
@@ -1115,6 +1152,9 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 135866,4552,Matheson,John Ross,1977-01-01,True,1982-01-01,True,False,False,187,30th Wellington Battalion of Rifles,,,13,Military,True,False,,0,,0,0,0,0,False,False,Awarded the Canadian Forces Decoration in 1977.,False,1651,Honorary Colonel,,Military
 255548,1869,Matheson,Neil Alexander,,False,,False,False,False,1544,Canadian Armed Forces Reserves,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
 255549,1869,Matheson,Neil Alexander,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
+103050,16763,Matheson,Roderick,,False,,False,False,False,5887,No. 1 Military District of Ontario,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
+18040,16763,Matheson,Roderick,,False,,False,False,False,9711,War of 1812-1814,,1812-1814,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
+75935,16763,Matheson,Roderick,,False,,False,False,False,3261,Glengarry Light Infantry,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,641,Senior Ensign,,Military
 76008,1002,Matthews,Walter Franklyn,1917-01-01,True,1918-03-31,False,False,False,7425,Royal Flying Corps,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
 51135,1002,Matthews,Walter Franklyn,1918-04-01,False,1918-01-01,True,False,False,7376,Royal Air Force,,R.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
 90965,7905,McCain,Fred Alward,1944-01-01,True,1946-01-01,True,False,False,1600,Canadian Infantry,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
@@ -1122,6 +1162,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 5317,9607,McCallum,Lachlin,,False,,False,False,False,2972,"Fenian Raids,1866-1871",,1866-1871,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 121832,6924,McClelland,Ian G.,1959-01-01,True,1961-01-01,True,False,False,7418,Royal Canadian Navy,,R.C.N.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,2441,Seaman,,Military
 255561,2545,McClenaghan,Stewart,,False,,False,False,False,6805,Princess Louise Dragoon Guards,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,226,Member,300.0,Committee|ElectionProcessCloseDissolution
+136111,14606,McCrea,Walter,,False,,False,False,False,10567,"Chatham Rifle Company, Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
 88659,12395,McCreath,Peter L.,1962-01-01,True,1968-01-31,False,False,False,7419,Royal Canadian Navy (Reserve),,R.C.N. (Reserve),13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
 20290,12395,McCreath,Peter L.,1968-02-01,False,1971-01-01,True,False,False,1586,Canadian Forces (Navy Reserve),,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
 268610,18504,McCrimmon,Karen,1975-01-01,True,1980-01-01,True,False,False,11989,Windsor Regiment (RCAC),,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,567,Reservist,0.0,Military
@@ -1157,6 +1198,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 96981,10033,McKay,Eric Bowness,1941-01-01,True,1945-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,1007,Flight Lieutenant,,Military
 88557,14448,McKay,James,1885-01-01,True,1885-01-01,True,False,False,11285,90th Regiment,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,524,Private,,Military
 54793,14448,McKay,James,,False,,False,False,False,5989,"North West Rebellion, 1885",,1885,24,War,True,False,,0,,0,0,0,0,False,False,,True,847,Military,,Military
+48455,8265,McKeagney,James Charles,,False,,False,False,False,180,"2nd Regiment, Cape Breton Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 8267,14211,McKeen,Stanley Stewart,,False,,False,False,False,156,"2nd Battalion Irish Fusiliers, Vancouver Regiment",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,305,Captain and Paymaster,,Military
 13309,14211,McKeen,Stanley Stewart,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 70169,14211,McKeen,Stanley Stewart,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
@@ -1442,6 +1484,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 23668,9309,Ray,William Hallett,,False,,False,False,False,119,"1st Regiment, Annapolis Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 258637,14568,Raymond,William Gawtress,,False,,False,False,False,11436,Eastman's Royal Naval Academy,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,681,Student / Officer Cadet,,Military
 258636,14568,Raymond,William Gawtress,,False,,False,False,False,11437,Royal Naval School,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,2430,Midshipman,,Military
+258638,2930,Redford,James,,False,,False,False,False,5317,Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
 258639,6471,Redman,Daniel Lee,1910-04-01,True,1914-01-01,True,False,False,11438,103rd Calgary Rifle Regiment,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 80676,6471,Redman,Daniel Lee,1914-01-01,True,1918-01-01,True,False,False,11,"10th Battalion, Canadian Expeditionary Force",,,13,Military,True,False,,0,,0,0,0,0,False,False,Served overseas.,False,204,Lieutenant,,Military
 258640,6471,Redman,Daniel Lee,1921-01-01,True,,False,False,False,11346,Calgary Highlander,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,792,Commanding Officer,,Military
@@ -1528,6 +1571,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 97144,10215,Ross,Duncan Graham,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 29160,187,Ross,James Arthur,,False,,False,False,False,265,"5th Battalion, Canadian Expeditionary Force",,,13,Military,True,False,,0,,0,0,0,0,False,False,Served overseas.,True,206,Lieutenant-Colonel,,Military
 15863,187,Ross,James Arthur,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
+87117,8519,Ross,John,1862-01-01,True,1869-01-01,True,False,False,161,"2nd Battalion, British Columbia Regiment",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 17895,9560,Ross,John Jones,,False,,False,False,False,85,"1st Battalion, Champlain County Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,224,Medical Officer,,Military
 118007,6353,Ross,Walter,1863-01-01,True,1883-01-01,True,False,False,55,"16th Prince Edward Battalion, Volunteer Infantry",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 73649,9294,Ross,William,,False,,False,False,False,1688,Cape Breton Reserve Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
@@ -1549,7 +1593,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 58456,5711,Sainte-Marie,Louis,,False,,False,False,False,2972,"Fenian Raids,1866-1871",,1866-1871,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 268729,18450,Sajjan,Harjit Singh,1989-01-01,True,2015-01-01,True,False,False,1581,Canadian Forces,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served in Bosnia and in Afghanistan three times. Awarded the following honours: <BR>Order of Military Merit <BR>Meritorious Service Medal<BR>Southwest Asia Service Medal (Afghanistan)<BR>General Campaign Star (Afghanistan)<BR>Mention in Dispatch <BR>Canadian Peacekeeping Service Medal<BR>NATO Service Medal (Bosnia) <BR>Canadian Forces' Decoration<BR>US Army Commendation Medal <BR>,False,206,Lieutenant-Colonel,,Military
 268736,18450,Sajjan,Harjit Singh,2011-01-01,True,2015-01-01,True,False,False,1210,British Columbia Regiment,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,790,Commandant,,Military
-268735,18450,Sajjan,Harjit Singh,,False,,False,False,False,12006,Lieutenant Governor of British Columbia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,2322,Aide-de-Camp,,
+268735,18450,Sajjan,Harjit Singh,,False,,False,False,False,12006,Lieutenant Governor of British Columbia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,2322,Aide-de-Camp,,Military
 52573,6634,Saltsman,Max,1941-01-01,True,1945-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,"Served overseas in France, Holland and Germany.",False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 103406,6634,Saltsman,Max,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 28951,14010,Sams,Joseph Reed,1943-01-01,True,1946-01-01,True,False,False,7427,Royal Hamilton Light Infantry,,RHLI,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
@@ -1589,10 +1633,13 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 42872,361,Shields,Jack Wendele,1947-01-01,True,1957-01-01,True,False,False,6806,Princess Patricia's Canadian Light Infantry,,P.P.C.L.I.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,847,Military,,Military
 119808,361,Shields,Jack Wendele,,False,,False,False,False,4294,"Korean War, 1950-1953",,1950-1953,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 110998,13658,Shymko,Yuri Roman,,False,,False,False,False,7380,Royal Canadian Air Cadets 283 Squadron,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1665,Instructor,,Military
+10872,5838,Simard,Georges-Honoré,,False,,False,False,False,5316,Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
 93736,8574,Simard,Jean-Maurice,,False,,False,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,True,847,Military,,Military
 12009,6476,Simmons,James Aubrey,1916-01-01,True,1919-01-01,True,False,False,10180,Yukon Infantry Company,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served overseas.,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 88672,6476,Simmons,James Aubrey,1916-01-01,True,1919-01-01,True,False,False,175,2nd Canadian Motor Machine Gun Brigade,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served overseas.,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 261420,6476,Simmons,James Aubrey,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
+71417,9344,Simpson,Wemyss Mackenzie,1870-01-01,True,1879-01-01,True,False,False,7072,Red River Expeditionary Force,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,1031,Guide and interpreter,,Military
+259795,9344,Simpson,Wemyss Mackenzie,,False,,False,False,False,11478,Algoma Reserve Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 55322,2965,Sinclair,Duncan James,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,224,Medical Officer,,Military
 116785,2965,Sinclair,Duncan James,,False,,False,False,False,1543,Canadian Army Medical Corps,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
 38791,1165,Sinclair,James,1939-01-01,True,1945-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,677,Squadron Leader,,Military
@@ -1626,6 +1673,11 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 13728,4011,Speakman,James Stanley,1943-01-01,True,1957-01-01,True,False,False,1536,Canadian Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
 17153,4011,Speakman,James Stanley,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 268771,18516,Spengemann,Sven,,False,,False,False,False,12017,Royal Canadian Air Cadets (845 Squadron),,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,77,Cadet,,Military
+82369,14030,Sproat,Alexander,1866-01-01,True,1881-01-01,True,False,False,188,32nd Bruce Battalion Volunteer Infantry,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
+260187,14030,Sproat,Alexander,1885-01-01,True,1885-01-01,True,False,False,6774,Prince Albert Volunteers,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
+260184,14030,Sproat,Alexander,,False,,False,False,False,11499,Southampton Rifles,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,787,Colonel,,Military
+260185,14030,Sproat,Alexander,,False,,False,False,False,2972,"Fenian Raids,1866-1871",,1866-1871,24,War,True,False,,0,,0,0,0,0,False,False,,True,847,Military,,Military
+260186,14030,Sproat,Alexander,,False,,False,False,False,5989,"North West Rebellion, 1885",,1885,24,War,True,False,,0,,0,0,0,0,False,False,,True,847,Military,,Military
 99270,8798,St. Germain,Gerry,,False,,False,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,True,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 247923,1642,St. Pierre,Paul,1941-01-01,True,1942-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 284231,11405,Stackhouse,Reginald Francis,1943-01-01,True,1945-01-01,True,False,False,1622,Canadian Officers' Training Corps,,C.O.T.C.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,681,Student / Officer Cadet,,Military
@@ -1663,6 +1715,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 80216,10921,Stitt,James Herbert,1914-12-01,False,1918-01-01,True,False,False,1573,"Canadian Field Artillery, Canadian Expeditionary Force",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
 67808,10921,Stitt,James Herbert,,False,,False,False,False,10069,"World War I, 1914-1918",,1914-1918,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 90752,12932,Strange,Frederick William,1893-01-01,True,1896-01-01,True,False,False,1613,Canadian Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,822,Deputy Surgeon General,,Military
+113246,7811,Street,Thomas Clark,1855-01-01,True,1869-01-01,True,False,False,82,1st Battalion Welland Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 105486,6106,Streight,John Everett Lyle,1899-01-01,True,1902-01-01,True,False,False,5316,Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 117450,6106,Streight,John Everett Lyle,1906-01-01,True,1906-01-01,True,False,False,5316,Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 9246,6106,Streight,John Everett Lyle,1914-01-01,True,1919-01-01,True,False,False,1536,Canadian Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served in France.,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
@@ -1679,6 +1732,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 15224,3312,Sutherland,Donald Matheson,,False,,False,False,False,253,"52nd Battalion, Canadian Expeditionary Force",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1532,Officer Commanding,,Military
 51806,3312,Sutherland,Donald Matheson,,False,,False,False,False,354,"A Company, 1st Battalion, Canadian Expeditionary Force",,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1532,Officer Commanding,,Military
 260471,13607,Sutherland,James,,False,,False,False,False,11518,22nd Battalion Oxford Rifles,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,213,Major,,Military
+140319,2615,Sylvain,Georges,1860-01-01,True,1860-01-01,True,False,False,10657,"1st Battery, Rimouski Militia",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
 71703,8922,Sylvain,John,1943-02-01,True,1945-12-01,True,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,False,482,Participant,,Military
 1429,8922,Sylvain,John,1943-02-01,True,1945-12-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,1528,Navigator,,Military
 176301,8922,Sylvain,John,1946-09-01,True,1949-06-01,True,False,False,7420,Royal Canadian Ordnance Corps,,R.C.O.C.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
@@ -1721,6 +1775,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 21590,8079,Thompson,Benjamin Cope (Ben),1943-01-01,True,1946-01-01,True,False,False,1536,Canadian Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,Served overseas.,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 260787,8079,Thompson,Benjamin Cope (Ben),,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 83558,8064,Thompson,David,,False,,False,False,False,197,37th Haldimand Battalion of Volunteer Rifles,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,213,Major,,Military
+50788,8749,Thompson,John Hall,1869-01-01,True,1880-01-01,True,False,False,6194,Ontario North (Reserve) Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,206,Lieutenant-Colonel,,Military
 56868,16024,Thompson,Myron,1958-01-01,True,1960-01-01,True,False,False,9450,United States Army,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 96379,8052,Thompson,Robert Norman,1941-01-01,True,1943-01-01,True,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,"RCAF Empire Air Training Scheme.Director, Imperial Ethiopian Air Force Academy, 1945.",False,1007,Flight Lieutenant,,Military
 221812,11659,Thompson,Sydney Herbert Stewart,,False,,False,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,True,2417,Warrant Officer,,Military
@@ -1780,6 +1835,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 261081,16900,Vidal,Alexander,,False,,False,False,False,10823,"Upper Canada Rebellion, 1837-1838",,1837-1838,24,War,True,False,,0,,0,0,0,0,False,False,,True,847,Military,,Military
 84942,9362,Vien,Thomas,1919-01-01,True,1926-01-01,True,False,False,7401,"Royal Canadian Artillery, 6th Quebec and Levis Regiment",,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,209,Lieutenant-Colonel C.O.,,Military
 67888,5118,Vincent,Clément,,False,,False,False,False,1539,Canadian Army Cadet Corps,,,13,Military,True,False,,0,,0,0,0,0,False,False,"Rawdon, Quebec.Received a medal for the best cadet, 1948.",True,791,Commander,,Military
+323676,20265,Vuong,Kevin,,False,,False,False,False,7419,Royal Canadian Navy (Reserve),,R.C.N. (Reserve),13,Military,True,False,,0,,0,0,0,0,False,False,,True,682,Sub-Lieutenant,,Military
 262691,10424,Wahn,Ian Grant,1942-01-01,True,1945-01-01,True,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,Served overseas in France and Germany.,False,482,Participant,,Military
 211694,10424,Wahn,Ian Grant,,False,,False,False,False,6989,Queen's Own Rifles of Canada,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
 39773,10424,Wahn,Ian Grant,,False,,False,False,False,1538,Canadian Army (Supplementary Reserve),,.A.F. (Supplementary Rese,13,Military,True,False,,0,,0,0,0,0,False,False,,True,304,Captain,,Military
@@ -1831,6 +1887,7 @@ PersonRoleId,PersonId,LastName,UsedFirstName,StartDate,StartDateIsApproximate,En
 19403,5747,Whitman,Frederick Primrose,1918-04-13,False,1919-06-01,False,False,False,1570,Canadian Expeditionary Force,,C.E.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,False,204,Lieutenant,,Military
 62362,13566,Whittaker,George H.,,False,,False,False,False,10070,"World War II, 1939-1945",,1939-1945,24,War,True,False,,0,,0,0,0,0,False,False,,True,482,Participant,,Military
 88710,13566,Whittaker,George H.,,False,,False,False,False,7376,Royal Air Force,,R.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,,True,1005,Flight Commander,,Military
+54968,9482,Wier,Benjamin,,False,,False,False,False,5719,Naval Brigade of Nova Scotia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,True,206,Lieutenant-Colonel,,Military
 23522,149,Wightman,William Hannum,1950-01-01,True,,False,False,False,7381,Royal Canadian Air Force,,R.C.A.F.,13,Military,True,False,,0,,0,0,0,0,False,False,Served with 416 Squadron and on the Pine tree line.,True,1011,Flying Officer,,Military
 95964,149,Wightman,William Hannum,1961-01-01,True,2019-09-11,False,False,False,1544,Canadian Armed Forces Reserves,,,13,Military,True,False,,0,,0,0,0,0,False,False,"Was called out from supplementary reserve in 1961 and promoted to Captain while serving at Area Headquarters Kingston, Ontario.",False,226,Member,300.0,Committee|ElectionProcessCloseDissolution
 206135,5829,Williams,Arthur Trefusis Heneage,1862-10-17,False,1885-07-04,False,False,False,11092,Port Hope Militia,,,13,Military,True,False,,0,,0,0,0,0,False,False,,False,304,Captain,,Military
