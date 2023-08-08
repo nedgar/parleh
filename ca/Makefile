@@ -43,3 +43,6 @@ data/people/people.zip:
 clean-zips:
 	rm -f data/parliaments/parliaments.zip
 	rm -f data/people/people.zip
+
+check-missing-role-class-name:
+	cd data/people && jq 'select((.Person.Roles[].Classes[])?|select(.RoleClassNameEn == null)|length>0)|.Person|{PersonId,UsedFirstName,LastName}' *.json
