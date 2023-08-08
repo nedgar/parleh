@@ -84,7 +84,10 @@ class Parleh:
             if option['DisplayNameEn'].startswith(str(parliament_number)):
                 option['ParliamentNumber'] = parliament_number
             elif option['DisplayNameEn'] == 'Currently in Office':
+                # option['ParliamentNumber'] = parliament_number
                 option['Current'] = True
+            else:
+                raise Exception("Unexpected DisplayNameEn:", option['DisplayNameEn'])
         return options
         
     def query_people(self, parl_option):
@@ -156,9 +159,9 @@ class Parleh:
 
         return pd.concat(dfs)
 
-    def combine_parliament_csvs(self, start_parl, end_parl):
+    def combine_parliament_csvs(self, start_parl, end_parl, include_current=False):
         print(f"Combining CSV data for parliaments {start_parl} to {end_parl}...")
-        df = self.read_all_parliament_csvs(start_parl, end_parl)
+        df = self.read_all_parliament_csvs(start_parl, end_parl, include_current)
         df.to_csv(PARLIAMENTS_DIR + 'all_parliaments.csv', index=False, encoding='utf8')
 
     def read_combined_parliaments_csv(self):

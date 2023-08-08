@@ -74,7 +74,7 @@ class Spider(scrapy.Spider):
                     'heading': heading,
                     'label': label,
                     'date': date,
-                    'note': note,
+                    'note': note if note != '' else None,
                 })
             elif css_class is None:
                 # blank row is common
