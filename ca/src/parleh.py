@@ -214,8 +214,8 @@ class Parleh:
                 classes = role.get('Classes')
                 if classes is not None:
                     class_names = [c['RoleClassNameEn'] for c in classes]
-                    if None in class_names:
-                        print(person, "class names:", class_names)
+                    # if None in class_names:
+                    #     print(person, "class names:", class_names)
                     role['Classes'] = '|'.join(filter(None, class_names))
 
                 # MP info is a dict with keys OccupationTypeEn, OccupationTypeFr. Use the former.
