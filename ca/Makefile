@@ -1,4 +1,4 @@
-all: download-parliaments data/parliaments/all_parliaments.csv download-profiles zips role-csvs
+all: download-parliaments download-profiles zips role-csvs
 
 data-directories:
 	mkdir -p data/parliaments data/people
@@ -7,8 +7,8 @@ download-parliaments: data-directories
 	cd src && python3 download_parliaments.py
 
 data/parliaments/all_parliaments.csv:
-	cd src && python3 combine_parliaments.py
-
+	echo "all_parliaments.csv must be generated first by running the download-parliaments target"
+	
 download-profiles: data/parliaments/all_parliaments.csv
 	cd src && python3 download_profiles.py
 
@@ -45,4 +45,4 @@ clean-zips:
 	rm -f data/people/people.zip
 
 check-missing-role-class-name:
-	cd data/people && jq 'select((.Person.Roles[].Classes[])?|select(.RoleClassNameEn == null)|length>0)|.Person|{PersonId,UsedFirstName,LastName}' *.json
+	cd data/people && jq -c 'select((.Person.Roles[].Classes[])?|select(.RoleClassNameEn == null)|length>0)|.Person|{PersonId,UsedFirstName,LastName}' *.json
